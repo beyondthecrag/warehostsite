@@ -69,6 +69,7 @@ header{
     width: 300px;
     justify-content: center;
     box-shadow: 10px 10px black;
+    word-wrap: break-word;
 }
 .event-info{
     text-align: center;
