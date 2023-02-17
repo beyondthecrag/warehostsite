@@ -33,29 +33,26 @@ header{
 
 
 .blog-wrapper{
-    background-size: cover;
-    background-position: center;
+
     width: 100%;
     height: 100%;
     font-size: 2rem;
    
 
-    background-color: rgb(167, 255, 95);
+    background-image: url(../img/bear.gif);
     /* background-image: url(../img/plag.jpeg); */
     color: white;
     
 }
 @media only screen and (max-width: 900px) {
     .blog-wrapper{
-        background-size: cover;
-        background-position: center;
+
         width: 300px;
         height: 100%;
         font-size: 2rem;
        
     
-        background-color: rgb(167, 255, 95);
-        /* background-image: url(../img/plag.jpeg); */
+        background-image: url(../img/bear.gif);
         color: white;
         
     }
