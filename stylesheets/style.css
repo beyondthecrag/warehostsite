@@ -46,7 +46,7 @@ header{
     
 }
 .blog-post{
-    background-color: rgb(160, 160, 160);
+    background-color: rgb(190, 190, 190);
     text-align: center;
     height: auto;
     width: 300px;
@@ -70,7 +70,7 @@ header{
 .blog-text{
     text-align: left;
     color:white;
-    background-color: rgb(160, 160, 160);
+    background-color: rgb(190, 190, 190);
     font-size:12px;
     margin:0;
 }
