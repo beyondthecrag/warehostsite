@@ -19,12 +19,7 @@ body{
     /* background-image: url(../img/plag.jpeg); */
     color: white;
 }
-.wrapper{
-    height: 100vh;
-    overflow-y:auto;
-    overflow-x: hidden;
-    perspective: 10px;
-}
+
 header{
     position: relative;
     display:flex;
@@ -35,87 +30,65 @@ header{
     z-index: -1;
 
 }
-.background{
-    transform: translateZ(-10px) scale(2);
-}
 
 
-.foreground{
-    transform: translateZ(-5px) scale(1.5);
-}
-.background,
-.foreground{
-    position: absolute;
+.blog-wrapper{
+    background-size: cover;
+    background-position: center;
+    width: 100%;
     height: 100%;
-    width:100%;
+    font-size: 2rem;
+    padding: 2rem;
     object-fit: cover;
-    z-index: -1;
+    background-color: beige;
+    /* background-image: url(../img/plag.jpeg); */
+    color: white;
+    
 }
-.stars{
-    position: absolute;
-    height:50px;
-    width:48px;
-    z-index: 2;
-}
-.col{
-    display: flex;
-    justify-content: center;
-    align-items: center
-}
-.event-box{
-    background-color: rgb(124, 180, 127);
+.blog-post{
+    background-color: rgb(160, 160, 160);
     text-align: center;
-    height: 300px;
+    height: auto;
     width: 300px;
     justify-content: center;
-    box-shadow: 10px 10px black;
     word-wrap: break-word;
 }
-.event-info{
-    text-align: center;
+.blog-title{
+    text-align: left;
     color:white;
-    font-size:32px;
+    background-color: black;
+    font-size:12px;
     margin:0;
 }
-.event-link{
-    position: relative;
-    color: white;
-    text-align: center;
-    font-size:32px;
+.blog-date{
+    text-align: left;
+    color:white;
+    background-color: black;
+    font-size:12px;
     margin:0;
-    z-index: 1;
 }
-.event-link:hover{
-    color:rgb(145, 189, 145);
-}
-.event-feature{
-    text-align: center;
-    color:rgb(255, 255, 255);
-    font-size:14px;
-    word-wrap: break-word;
-    margin-bottom:5px;
-}
-.upcomming{
-    color:black;
-    text-align: center;
-}
-.links-box{
-    background-color: rgb(224, 180, 180);
-    box-shadow: 10px 10px;
-    margin-bottom:50px;
-}
-.links-link{
-    position: relative;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    font-size:32px;
+.blog-text{
+    text-align: left;
+    color:white;
+    background-color: rgb(160, 160, 160);
+    font-size:12px;
     margin:0;
-    z-index: 1;
-
 }
-.links-link:hover{
-    color:rgb(58, 58, 58);
+.wrapper{
+    height: 100vh;
+    overflow-y:auto;
+    overflow-x: hidden;
+    perspective: 10px;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-image:url("../img/bgtest.jpeg");
+    padding-left: 100px;
+    padding-right: 200px;
 }
-.h1{
-    margin:5px;
+.side-bar{
+    width: 100px;
+    height:100%;
+    border: black;
+    background-color: rgb(160, 160, 160);
 }
