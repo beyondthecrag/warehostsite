@@ -64,6 +64,7 @@ header{
     width: 300px;
     justify-content: center;
     word-wrap: break-word;
+    margin-bottom:200px;
 }
 .blog-title{
     text-align: left;
@@ -129,4 +130,9 @@ header{
 .img-wrapper{
     background-image:url("../img/ang.gif");
     height:100vh;
+}
+.blog-post-img{
+    height:200px;
+    width:200px;
+    
 }
