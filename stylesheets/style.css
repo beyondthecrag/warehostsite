@@ -102,7 +102,7 @@ header{
     width: 100px;
     height:100%;
     border: black;
-    background-color: rgb(167, 255, 95);
+    background-image:url("../img/sideang.gif");
 }
 .error{
     background-image:url("../img/sky.jpeg");
