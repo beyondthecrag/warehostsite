@@ -58,10 +58,14 @@ header{
     }
   }
 .blog-post{
-    background-color: rgb(129, 129, 129);
+    box-shadow: inset -1px -1px #0a0a0a,
+    inset 1px 1px #ffffff, inset -2px -2px #808080,
+    inset 2px 2px #dfdfdf;
+  background: #c0c0c0;
+  padding: 3px;
     text-align: center;
     height: auto;
-    width: 300px;
+    width: 500px;
     justify-content: center;
     word-wrap: break-word;
     margin-bottom:200px;
@@ -69,21 +73,27 @@ header{
 .blog-title{
     text-align: left;
     color:white;
-    background-color: black;
+
+  background: #4b1737;
+  padding: 3px;
     font-size:12px;
     margin:0;
 }
 .blog-date{
     text-align: left;
     color:white;
-    background-color: black;
+    background: #4b1737;
     font-size:12px;
     margin:0;
 }
 .blog-text{
     text-align: left;
     color:white;
-    background-color: rgb(129, 129, 129);
+    box-shadow: inset -1px -1px #0a0a0a,
+    inset 1px 1px #a2c970, inset -2px -2px #0d5738,
+    inset 2px 2px #23da59;
+  background: #5dd197;
+  padding: 3px;
     font-size:12px;
     margin:0;
 }
@@ -132,7 +142,17 @@ header{
     height:100vh;
 }
 .blog-post-img{
-    height:200px;
-    width:200px;
-    
+    height:100%;
+    width:100%;
+    padding:10px;
+
+}
+.page-num{
+    color: #ff9c24;
+	text-align: left;
+	font-family: 'Comic Sans MS';
+	font-size: 20px;
+	padding: 5px;
+    background:white;
+
 }
