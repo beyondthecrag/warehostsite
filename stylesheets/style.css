@@ -92,3 +92,8 @@ header{
     border: black;
     background-color: rgb(167, 255, 95);
 }
+.error{
+    background-color:brown;
+    height: 100vh;
+    width: 100vh;
+}
