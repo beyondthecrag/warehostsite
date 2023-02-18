@@ -1,6 +1,6 @@
 html {
     cursor: help;
-    pointer-events: none;
+    
   }
 body{
     margin:0;
@@ -145,6 +145,7 @@ header{
     justify-content: center;
     padding-bottom: 50px;
     padding-top: 50px;
+    pointer-events: none;
     background-image:url("../img/picbg.jpeg");
     padding-left: 100px;
     padding-right: 200px;
@@ -152,10 +153,12 @@ header{
 .img-wrapper{
     background-image:url("../img/ang.png");
     height:100vh;
+    pointer-events: none;
 }
 .blog-post-img{
     height:100%;
     width:100%;
+    pointer-events: none;
     padding:10px;
 
 }
