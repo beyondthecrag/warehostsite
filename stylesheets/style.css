@@ -41,9 +41,9 @@ header{
     width: 100%;
     height: 100%;
     font-size: 2rem;
-    border: 6px dashed #A88F8B;
+    border: 6px dashed #ffffff;
 
-    background: rgb(162, 150, 175);
+    background: rgb(126, 148, 125);
     
     color: white;
     
@@ -83,9 +83,9 @@ header{
   }
 .blog-title{
     text-align: left;
-    color:white;
+    color:rgb(255, 255, 255);
 
-  background: #A88F8B;
+  background: #414141;
   padding: 3px;
     font-size:12px;
     margin:0;
@@ -93,14 +93,14 @@ header{
 .blog-date{
     text-align: left;
     color:white;
-    background: #A88F8B;
+    background: #a08ba8;
     font-size:12px;
     margin:0;
 }
 .blog-text{
     text-align: left;
     color:white;
-    background: #A88F8B;
+    background: #a08ba8;
   padding: 3px;
     font-size:12px;
     margin:0;
