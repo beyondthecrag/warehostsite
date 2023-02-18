@@ -99,10 +99,13 @@ header{
 .blog-text{
     text-align: left;
     color:white;
-    background: #aeb1cf;
+    background: #cbcde9;
   padding: 3px;
     font-size:12px;
     margin:0;
+    box-shadow: inset -1px -1px #ffffff,
+    inset 1px 1px #ffffff, inset -2px -2px #808080,
+    inset 2px 2px #dfdfdf;
 }
 .wrapper{
     overflow-x: hidden;
