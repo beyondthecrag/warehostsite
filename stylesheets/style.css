@@ -82,7 +82,7 @@ header{
   }
 .blog-title{
     text-align: left;
-    color:rgb(255, 255, 255);
+    color:rgb(148, 148, 148);
 
   background: #414141;
   padding: 3px;
@@ -91,15 +91,15 @@ header{
 }
 .blog-date{
     text-align: left;
-    color:white;
-    background: #a08ba8;
+    color:rgb(158, 151, 196);
+    
     font-size:12px;
     margin:0;
 }
 .blog-text{
     text-align: left;
     color:white;
-    background: #a08ba8;
+    background: #aeb1cf;
   padding: 3px;
     font-size:12px;
     margin:0;
