@@ -217,7 +217,7 @@ a.southview{
     justify-content: center;
     padding-bottom: 50px;
     padding-top: 50px;
-    pointer-events: none;
+    
     background-color:white;
     padding-left: 100px;
     padding-right: 200px;
@@ -225,5 +225,8 @@ a.southview{
 .song-wrapper{
     background-image:url("../img/cd.png");
     height:100vh;
-    pointer-events: none;
+    
+}
+.song{
+    width:50%;
 }
