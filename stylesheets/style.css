@@ -218,7 +218,12 @@ a.southview{
     padding-bottom: 50px;
     padding-top: 50px;
     pointer-events: none;
-    background-image:url("../img/cd.png");
+    background-color:#ceaafc;
     padding-left: 100px;
     padding-right: 200px;
+}
+.img-wrapper{
+    background-image:url("../img/cd.png");
+    height:100vh;
+    pointer-events: none;
 }
