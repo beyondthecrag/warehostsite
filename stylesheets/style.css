@@ -209,3 +209,16 @@ a.southview{
 .fairy{
     background-image:url("../img/fairy.gif");
 }
+.playlist-wrapper{
+    height: 100vh;
+    overflow-y:auto;
+    overflow-x: hidden;
+    perspective: 10px;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    pointer-events: none;
+    background-image:url("../img/cd.png");
+    padding-left: 100px;
+    padding-right: 200px;
+}
