@@ -105,7 +105,7 @@ header{
     margin:0;
 }
 .wrapper{
-
+    overflow-x: hidden;
     justify-content: center;
     padding-bottom: 50px;
     padding-top: 50px;
