@@ -1,0 +1,1165 @@
+ 
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, adhairfront, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+@media only screen and (max-width: 1920px) {
+    body {
+    
+        transform: scale(0.72);
+        transform-origin: 0 0;
+       
+        line-height: 1;
+    }
+  }
+@media only screen and (max-width: 900px) {
+    body {
+        
+        transform: scale(0.65);
+        transform-origin: 0 0;
+       
+        line-height: 1;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    body {
+    
+        transform: scale(0.1);
+        transform-origin: 0 0;
+       
+        line-height: 1;
+    }
+  }
+
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+#overlay{
+position:absolute;
+pointer-events: none;
+   width:855px;
+   height:1340px;
+   z-index: 20;
+   background-image: url("../img/overlay.png");
+}
+#container{
+    position: absolute;
+    margin:auto;
+    width: 755px;
+    height :987px;
+    margin-left: 50px;
+   padding-top: 270px;
+    
+
+}
+#backgrounds{
+    position:absolute;
+   width:555px;
+   height:987px;
+   
+   z-index: 1;
+   
+}
+.background1{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background1.png);
+    z-index: 1;
+}
+
+.background2{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background2.png);
+    z-index: 1;
+}
+
+.background3{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background3.png);
+    z-index: 1;
+}
+.background4{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background4.png);
+    z-index: 1;
+}
+.background5{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background5.png);
+    z-index: 1;
+}
+.background6{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background6.png);
+    z-index: 1;
+}
+.background7{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background7.png);
+    z-index: 1;
+}
+.background8{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background8.png);
+    z-index: 1;
+}
+.background9{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background9.png);
+    z-index: 1;
+}
+.background10{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background10.png);
+    z-index: 1;
+}
+.background11{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background11.png);
+    z-index: 1;
+}
+.background12{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background12.png);
+    z-index: 1;
+}
+.background13{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background13.png);
+    z-index: 1;
+}
+
+.background14{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background14.png);
+    z-index: 1;
+}
+.background15{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background15.png);
+    z-index: 1;
+}
+.background16{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background16.png);
+    z-index: 1;
+}
+.background17{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background17.png);
+    z-index: 1;
+}
+.background18{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background18.png);
+    z-index: 1;
+}
+.background19{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background19.png);
+    z-index: 1;
+}
+.background20{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/background20.png);
+    z-index: 1;
+}
+
+#shirt{
+    position:absolute;
+   width:555px;
+   height:987px;
+   z-index: 3;
+   
+   
+   
+   
+}
+.shirt1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/shirt1.png");
+    z-index: 3;
+
+}
+.shirt2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/shirt2.png");
+    z-index: 3;
+}
+.shirt3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/shirt3.png");
+    z-index: 3;
+}
+#pants{
+    position:absolute;
+   width:555px;
+   height:987px;
+   z-index: 2;
+   
+   
+   
+   
+   
+}
+.pants1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/pants1.png");
+
+}
+.pants2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/pants2.png");
+
+}
+.pants3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/pants3.png");
+
+}
+
+#ushirt{
+    position:absolute;
+   width:555px;
+   height:987px;  
+   z-index: 2;
+   
+}
+.ushirt1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/ushirt1.png");
+}
+.ushirt2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/ushirt2.png");
+    
+}
+.ushirt3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/ushirt3.png");
+
+}
+#jacket{
+    position:absolute;
+   width:555px;
+   height:987px;
+   z-index: 6;
+   
+   
+   
+   
+}
+.jacket1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/jacket1.png");
+    z-index: 6;
+}
+.jacket2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/jacket2.png");
+    z-index: 6;
+}
+.jacket3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/jacket3.png");
+    z-index: 6;
+}
+#man{
+    position:absolute;
+    width:555px;
+    height:987px;
+    z-index: 1;
+    
+    
+    background-image: url("../img/body.png");
+    
+    
+    
+ 
+}
+
+#shoes{
+     position:absolute;
+    width:555px;
+    height:987px;
+    z-index: 2;
+    
+    
+    
+    
+}
+
+.shoe1{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe1.png);
+    z-index: 2;
+}
+
+.shoe2{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe2.png);
+    z-index: 2;
+}
+
+.shoe3{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe3.png);
+    z-index: 2;
+}
+.shoe4{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe4.png);
+    z-index: 2;
+}
+.shoe5{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe5.png);
+    z-index: 2;
+}
+.shoe6{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe6.png);
+    z-index: 2;
+}
+.shoe7{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe7.png);
+    z-index: 2;
+}
+.shoe8{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe8.png);
+    z-index: 2;
+}
+.shoe9{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe9.png);
+    z-index: 2;
+}
+.shoe10{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe10.png);
+    z-index: 2;
+}
+.shoe11{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe11.png);
+    z-index: 2;
+}
+.shoe12{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe12.png);
+    z-index: 2;
+}
+.shoe13{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe13.png);
+    z-index: 2;
+}
+
+.shoe14{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe14.png);
+    z-index: 2;
+}
+.shoe15{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe15.png);
+    z-index: 2;
+}
+.shoe16{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe16.png);
+    z-index: 2;
+}
+.shoe17{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe17.png);
+    z-index: 2;
+}
+.shoe18{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe18.png);
+    z-index: 2;
+}
+.shoe19{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe19.png);
+    z-index: 2;
+}
+.shoe20{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe20.png);
+    z-index: 2;
+}
+
+
+#clothes{
+    
+     position:absolute;
+    width:555px;
+    height:987px;
+    
+    
+    
+    
+}
+
+.hairfront1{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront1.png);
+    z-index: 7;
+}
+
+.hairfront2{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront2.png);
+    z-index: 7;
+}
+
+.hairfront3{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront3.png);
+    z-index: 7;
+}
+.hairfront4{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront4.png);
+    z-index: 7;
+}
+.hairfront5{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront5.png);
+    z-index: 7;
+}
+.hairfront6{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront6.png);
+    z-index: 7;
+}
+.hairfront7{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront7.png);
+    z-index: 7;
+}
+.hairfront8{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront8.png);
+    z-index: 7;
+}
+.hairfront9{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront9.png);
+    z-index: 7;
+}
+.hairfront10{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront10.png);
+    z-index: 7;
+}
+.hairfront11{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront11.png);
+    z-index: 7;
+}
+.hairfront12{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront12.png);
+    z-index: 7;
+}
+.hairfront13{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront13.png);
+    z-index: 7;
+}
+
+.hairfront14{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront14.png);
+    z-index: 7;
+}
+.hairfront15{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront15.png);
+    z-index: 7;
+}
+.hairfront16{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront16.png);
+    z-index: 7;
+}
+.hairfront17{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront17.png);
+    z-index: 7;
+}
+.hairfront18{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront18.png);
+    z-index: 7;
+}
+.hairfront19{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront19.png);
+    z-index: 7;
+}
+.hairfront20{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hairfront20.png);
+    z-index: 7;
+}
+
+
+#hairfront{
+     position:absolute;
+    width:555px;
+    height:987px;
+    z-index: 7;
+    
+    
+    
+    
+}
+
+.dress1{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress1.png);
+    z-index: 5;
+}
+
+.dress2{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress2.png);
+    z-index: 5;
+}
+
+.dress3{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress3.png);
+    z-index: 5;
+}
+.dress4{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress4.png);
+    z-index: 5;
+}
+.dress5{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress5.png);
+    z-index: 5;
+}
+.dress6{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress6.png);
+    z-index: 5;
+}
+.dress7{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress7.png);
+    z-index: 5;
+}
+.dress8{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress8.png);
+    z-index: 5;
+}
+.dress9{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress9.png);
+    z-index: 5;
+}
+.dress10{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress10.png);
+    z-index: 5;
+}
+.dress11{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress11.png);
+    z-index: 5;
+}
+.dress12{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress12.png);
+    z-index: 5;
+}
+.dress13{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress13.png);
+    z-index: 5;
+}
+
+.dress14{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress14.png);
+    z-index: 5;
+}
+.dress15{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress15.png);
+    z-index: 5;
+}
+.dress16{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress16.png);
+    z-index: 5;
+}
+.dress17{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress17.png);
+    z-index: 5;
+}
+.dress18{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress18.png);
+    z-index: 5;
+}
+.dress19{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress19.png);
+    z-index: 5;
+}
+.dress20{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress20.png);
+    z-index: 5;
+}
+#phrases{
+    position:absolute;
+   width:555px;
+   height:987px;
+   z-index: 150;
+
+}
+
+.phrase1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase1.png);
+
+}
+.phrase2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase2.png);
+
+}
+.phrase3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase3.png);
+
+}
+.phrase4{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase4.png);
+
+}
+.phrase5{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase5.png);
+
+}
+.phrase6{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase6.png);
+
+}
+.phrase7{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase7.png);
+
+}
+.phrase8{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase8.png);
+
+}
+.phrase9{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase9.png);
+
+}
+.phrase10{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase10.png);
+
+}
+.phrase11{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/phrase11.png);
+
+}
+#accessory{
+    position:absolute;
+   width:555px;
+   height:987px;
+   z-index: 6;
+
+}
+.accessory1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/accessory1.png);
+
+}
+.accessory2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/accessory2.png);
+
+}
+.accessory3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/accessory3.png);
+
+}
+.accessory4{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/accessory4.png);
+
+}
+.accessory5{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/accessory5.png);
+
+}
+#hat{
+    position:absolute;
+   width:555px;
+   height:987px;
+   z-index: 8;
+
+}
+.hat1{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hat1.png);
+
+}
+.hat2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hat2.png);
+
+}
+.hat3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hat3.png);
+
+}
+
+
+#nexthair{
+    position:absolute;
+    top:50px;
+    pointer-events: auto; 
+    z-index: 100;
+}
+#nextdress{
+    position:absolute;
+    top:150px;
+    z-index: 100;
+    pointer-events: auto; 
+}
+
+#nextshoe{
+    position:absolute;
+    top:250px;
+    pointer-events: auto; 
+    z-index: 100;
+}
+#nextbackground{
+    position:absolute;
+    top:350px;;
+    z-index: 100;
+    pointer-events: auto; 
+}
+#nextshirt{
+    position:absolute;
+    top:450px;;
+    z-index: 100;
+    pointer-events: auto; 
+}
+#nextpants{
+    position:absolute;
+    top:550px;;
+    z-index: 100;
+    pointer-events: auto; 
+}
+#nextaccessory{
+    position:absolute;
+    top:650px;;
+    z-index: 100;
+    pointer-events: auto; 
+}
+#nextushirt{
+    position:absolute;
+    top:750px;;
+    z-index: 100;
+    pointer-events: auto; 
+}
+#nextjacket{
+    position:absolute;
+    top:850px;;
+    z-index: 100;
+    pointer-events: auto; 
+    
+}
+#nextphrase{
+    position:absolute;
+    top:950px;;
+    z-index: 100;
+    pointer-events: auto; 
+    
+}
+#nexthat{
+    position:absolute;
+    top:1050px;;
+    z-index: 100;
+    pointer-events: auto; 
+    
+}
+.btn84{
+    right:0px;
+    font-size: 50px;
+    color:black;
+    background-color: rgb(175, 175, 175);
+    border: 2px solid black;;
+    padding-top:10px;
+    touch-action: manipulation;
+}
