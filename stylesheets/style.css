@@ -198,6 +198,12 @@ header{
     max-height: 50px;
     width: 100%;
 }
+@media only screen and (max-width: 900px) {
+    .bot-button{
+        height:300px;
+        width: 300px;
+ }
+}
 .bot-bord{
     max-height: 50px;
     width: 100%;
