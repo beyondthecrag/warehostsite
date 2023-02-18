@@ -177,6 +177,12 @@ header{
     background-image:url("../img/ang.png");
 }
 @media only screen and (max-width: 900px) {
+    html, body {
+        overflow-x: hidden;
+      }
+      body {
+        position: relative
+      }
     .middle{
         
         width: 300px;
