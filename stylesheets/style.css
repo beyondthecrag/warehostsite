@@ -218,11 +218,11 @@ a.southview{
     padding-bottom: 50px;
     padding-top: 50px;
     pointer-events: none;
-    background-color:#ceaafc;
+    background-color:white;
     padding-left: 100px;
     padding-right: 200px;
 }
-.img-wrapper{
+.song-wrapper{
     background-image:url("../img/cd.png");
     height:100vh;
     pointer-events: none;
