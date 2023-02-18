@@ -68,7 +68,7 @@ header{
     width: 500px;
     justify-content: center;
     word-wrap: break-word;
-    margin-bottom:100px;
+    margin-bottom:70px;
 }
 @media only screen and (max-width: 900px) {
     .blog-post{
