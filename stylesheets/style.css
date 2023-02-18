@@ -40,8 +40,7 @@ header{
     border: 6px dashed #9E6AA4;
 
     background: rgb(199,161,148);
-    background: linear-gradient(90deg, rgba(199,161,148,1) 0%, rgba(255,203,116,1) 20%, rgba(252,202,69,1) 36%, rgba(69,252,98,1) 55%, rgba(69,77,252,1) 71%, rgba(236,69,252,1) 93%); 
-    /* background-image: url(../img/plag.jpeg); */
+    
     color: white;
     
 }
@@ -69,7 +68,7 @@ header{
     width: 500px;
     justify-content: center;
     word-wrap: break-word;
-    margin-bottom:200px;
+    margin-bottom:100px;
 }
 .blog-title{
     text-align: left;
