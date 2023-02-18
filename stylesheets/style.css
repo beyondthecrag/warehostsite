@@ -55,7 +55,7 @@ header{
         height: 100%;
         font-size: 2rem;
        
-    
+        background-image: url(../img/ang.png);
         color: white;
         
     }
@@ -121,8 +121,8 @@ header{
 }
 @media only screen and (max-width: 900px) {
     .side-bar{
-
-        width: 300px;
+        display:none;
+        
         
     }
   }
@@ -178,7 +178,7 @@ header{
 }
 @media only screen and (max-width: 900px) {
     .middle{
-
+        
         width: 300px;
         
     }
