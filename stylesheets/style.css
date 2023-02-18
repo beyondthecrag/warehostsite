@@ -150,7 +150,7 @@ header{
     padding-right: 200px;
 }
 .img-wrapper{
-    background-image:url("../img/ang.gif");
+    background-image:url("../img/ang.png");
     height:100vh;
 }
 .blog-post-img{
@@ -172,7 +172,7 @@ header{
 .side-right{
     height:100%;
     width:100%;
-    background-image:url("../img/ang.gif");
+    background-image:url("../img/ang.png");
 }
 @media only screen and (max-width: 900px) {
     .middle{
