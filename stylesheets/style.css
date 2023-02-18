@@ -188,3 +188,14 @@ header{
         height:100px;
  }
 }
+.bot-button{
+    max-height: 50px;
+    width: 100%;
+}
+.bot-bord{
+    max-height: 50px;
+    width: 100%;
+}
+a.southview{
+    color: #ceaafc;
+}
