@@ -37,8 +37,8 @@ header{
 }
 
 .blogs{
-    overflow-y: auto;
-    height:100vh;
+    overflow-y: scroll;
+    height:700px;
 }
 .nav-boxes{
     width: 100% !important;
@@ -78,6 +78,7 @@ header{
     }
   }
 .blog-post{
+    overflow-y: scroll;
     box-shadow: inset -1px -1px #0a0a0a,
     inset 1px 1px #ffffff, inset -2px -2px #808080,
     inset 2px 2px #dfdfdf;
