@@ -295,6 +295,7 @@ a.southview{
     justify-content: center;
     height: 200px;
     width: 200px;
+    background-size: cover;
 }
 #img1{
     
