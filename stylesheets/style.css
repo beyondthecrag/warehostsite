@@ -25,7 +25,11 @@ body{
     /* background-image: url(../img/plag.jpeg); */
     color: white;
 }
-
+.row no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+    --bs-gutter-x: 0px;
+}
 header{
     position: relative;
     display:flex;
