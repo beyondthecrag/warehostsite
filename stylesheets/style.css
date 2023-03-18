@@ -296,14 +296,13 @@ a.southview{
 .imgs{
     display: flex;
     justify-content: center;
-    
-    width: 100%;
+    width: 450px;
     background-size: cover;
     margin:auto;
 
 }
 #img1{
-    height: 434px;
+    height: 384px;
     background-image:url("/impimg/img1.png")!important; 
 }
 #img2{
