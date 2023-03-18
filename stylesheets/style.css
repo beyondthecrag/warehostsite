@@ -294,12 +294,14 @@ a.southview{
 .imgs{
     display: flex;
     justify-content: center;
-    height: 200px;
-    width: 200px;
+    
+    width: 100%;
     background-size: cover;
+    margin:auto;
+
 }
 #img1{
-    
+    height: 200px;
     background-image:url("/impimg/img1.png")!important; 
 }
 #img2{
