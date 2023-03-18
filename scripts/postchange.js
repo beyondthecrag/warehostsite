@@ -241,10 +241,10 @@ var textBlocks = [
   },
   //35
   {
-    text: "logged onto twitter again and got a rlly weird msg from an account with no followers or tweets IMAGE this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird",
+    text: "logged onto twitter again and got a rlly weird msg from an account with no followers or tweets this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird",
     date: "june 4, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img2"
   },
   //36
   {
@@ -255,10 +255,10 @@ var textBlocks = [
   },
   //37
   {
-    text: "finally messaged the account back IMAGE i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game ",
+    text: "finally messaged the account back i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game ",
     date: "june 7, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img3"
   },
   //38
   {
@@ -304,10 +304,10 @@ var textBlocks = [
   },
   //44
   {
-    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to robots so i figured i might as well try it too first question wasn’t about the future but it still “worked” as much as i could say it works at all: IMAGE very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick it giving me a date was weird though, especially such a close one. seemed off script ",
+    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to robots so i figured i might as well try it too first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick it giving me a date was weird though, especially such a close one. seemed off script ",
     date: "june 18, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img4"
   },
   //45
   {
@@ -360,10 +360,10 @@ var textBlocks = [
   },
   //52
   {
-    text: " IMAGE if AI is the future just get it over with and infect me now ",
+    text: "if AI is the future just get it over with and infect me now ",
     date: "july 1, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img5"
   },
   //53
   {
@@ -395,10 +395,10 @@ var textBlocks = [
   },
   //57
   {
-    text: "fill",
+    text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my post: Come back: Insert thread feeling surprisingly excited..i’m ~refreshing~ !! :-) kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do",
     date: "july 7, 2019 ",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img6"
   },
   //60
   {

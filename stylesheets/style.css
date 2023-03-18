@@ -308,20 +308,25 @@ a.southview{
 #img2{
     height: 200px;
     width: 200px;
-    content:url("/impimg/img1.png");
+    content:url("/impimg/img2.png");
 }
 #img3{
     height: 200px;
     width: 200px;
-    content:url("/impimg/img1.png");
+    content:url("/impimg/img3.png");
 }
 #img4{
     height: 200px;
     width: 200px;
-    content:url("/impimg/img1.png");
+    content:url("/impimg/img4.png");
 }
 #img5{
     height: 200px;
     width: 200px;
-    content:url("/impimg/img1.png");
+    content:url("/impimg/img5.png");
+}
+#img6{
+    height: 200px;
+    width: 200px;
+    content:url("/impimg/img6.png");
 }
