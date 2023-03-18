@@ -49,7 +49,7 @@ header{
     overflow-y: auto;
 }
 .side-title{
-    width: 100% !important;
+    width: 150% !important;
     height: 100px;
     background-color: #0a0a0a;
     text-align: center;
