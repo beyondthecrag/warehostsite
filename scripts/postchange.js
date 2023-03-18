@@ -566,7 +566,28 @@ function jump(){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<audio controls> <source src=\"./audio/babbagelawfirm.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+          "<audio controls> <source src=\"../audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
+        );
+      }
+      else if(index==63){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/runawayrunaway.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+        );
+      }
+      else if(index==35){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/pendrydr13.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+        );
+      }
+      else if(index==51){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
      
@@ -598,6 +619,28 @@ function updateTextBlock() {
       "<audio controls> <source src=\"../audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
     );
   }
+  else if(index==63){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"./audio/runawayrunaway.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+    );
+  }
+  else if(index==35){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"./audio/pendrydr13.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+    );
+  }
+  else if(index==51){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+    );
+  }
+ 
   
   
 }
