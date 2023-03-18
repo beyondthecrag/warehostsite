@@ -72,8 +72,7 @@ header{
         height: 100%;
         font-size: 2rem;
        
-        background-image: url(../img/ang.png);
-        color: white;
+        
         
     }
   }
@@ -215,6 +214,12 @@ header{
     width:100%;
     
 }
+@media only screen and (max-width: 900px) {
+    .side-right{
+        display:none;
+ }
+}
+
 @media only screen and (max-width: 900px) {
     html, body {
         overflow-x: hidden;

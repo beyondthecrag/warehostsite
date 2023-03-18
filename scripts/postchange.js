@@ -453,57 +453,62 @@ var textBlocks = [
   },
 
 ];
-
-
+textBlocks=textBlocks.reverse();
 
 // Set the initial index to 0 (the first text block)
-var index0 = 0;
-var index1 = 1;
-var index2 = 2;
+var index = 0;
+var pageNum = 0;
 // Get references to the HTML elements
-var textBlockEl0 = document.getElementById("text-block0");
-var dateBlockEl0 = document.getElementById("date-block0");
-var greetingBlockEl0 = document.getElementById("greeting-block0");
-var textBlockEl1 = document.getElementById("text-block1");
-var dateBlockEl1 = document.getElementById("date-block1");
-var greetingBlockEl1 = document.getElementById("greeting-block1");
-var textBlockEl2 = document.getElementById("text-block2");
-var dateBlockEl2 = document.getElementById("date-block2");
-var greetingBlockEl2 = document.getElementById("greeting-block2");
+var textBlockEl = document.getElementById("text-block");
+var dateBlockEl = document.getElementById("date-block");
+var greetingBlockEl = document.getElementById("greeting-block");
 var backBtn = document.getElementById("back-btn");
 var nextBtn = document.getElementById("next-btn");
+var goBtn = document.getElementById("go-btn");
+var pageNum = document.getElementById("page-num");
+dropdown.addEventListener("change", function(){
+});
+function jump(){
+  
+    index = dropdown.value-1;
+      textBlockEl.textContent = textBlocks[index].text;
+      dateBlockEl.textContent = textBlocks[index].date;
+      greetingBlockEl.textContent = textBlocks[index].greeting;
+      pageNum.textContent = index+1;
+}
+
 
 // Function to update the text block with the current index
+
 function updateTextBlock() {
-  textBlockEl0.textContent = textBlocks[index0].text;
-  dateBlockEl0.textContent = textBlocks[index0].date;
-  greetingBlockEl0.textContent = textBlocks[index0].greeting;
-  textBlockEl1.textContent = textBlocks[index1].text;
-  dateBlockEl1.textContent = textBlocks[index1].date;
-  greetingBlockEl1.textContent = textBlocks[index1].greeting;
-  textBlockEl2.textContent = textBlocks[index2].text;
-  dateBlockEl2.textContent = textBlocks[index2].date;
-  greetingBlockEl2.textContent = textBlocks[index2].greeting;
+  pageNum.textContent = index+1;
+  textBlockEl.textContent = textBlocks[index].text;
+  dateBlockEl.textContent = textBlocks[index].date;
+  greetingBlockEl.textContent = textBlocks[index].greeting;
 }
 
 // Add event listeners to the back and next buttons
 backBtn.addEventListener("click", function() {
-  if (index0 > 0) {
-    index0--;
-    index1--;
-    index2--;
+  if (index > 0) {
+    index--;
     updateTextBlock();
   }
 });
 
 nextBtn.addEventListener("click", function() {
-  if (index0 < textBlocks.length - 1) {
-    index0++;
-    index1++;
-    index2++;
+  if (index < textBlocks.length - 1) {
+    index++;
     updateTextBlock();
   }
 });
+goBtn.addEventListener("click", function() {
+    jump();
+});
+
+
+
+
 
 // Call the updateTextBlock function to set the initial text
+
 updateTextBlock();
