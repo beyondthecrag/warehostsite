@@ -323,7 +323,7 @@ a.southview{
 #img5{
     height: 200px;
     width: 200px;
-    content:url("/..impimg/img5.png");
+    content:url("../impimg/img5.png");
 }
 #img6{
     height: 200px;
