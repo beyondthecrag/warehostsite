@@ -25,10 +25,10 @@ body{
     /* background-image: url(../img/plag.jpeg); */
     color: white;
 }
-.row no-gutters {
+.row{
     margin-right: 0;
     margin-left: 0;
-    --bs-gutter-x: 0px;
+    --bs-gutter-x: 0px !important;
 }
 header{
     position: relative;
@@ -48,15 +48,18 @@ header{
 .nav-boxes{
     width: 100% !important;
     height: 100% !important;
-    background-color: #779c82 !important;
+    /*background-image: url(../img/grntreesbg.jpeg);*/
+    background-color: #95c295;
     border: black solid 1px !important;
     overflow-y: auto;
 }
 .side-title{
     width: 100% !important;
     height: 100px;
-    background-color: #0a0a0a;
+    color:#ffffff;
+    background-image: url(../img/skylo.gif);
     text-align: center;
+    font-size: 30px;
 }
 .blog-wrapper{
     height: 100%;
@@ -64,10 +67,7 @@ header{
     overflow-y: hidden;
     width: 100%;
     font-size: 2rem;
-    
-
-    background-color: #adb6c2;
-    
+    background-color: #444644;
     color: white;
     
 }
@@ -120,7 +120,7 @@ header{
     margin:0;
 }
 .nav-boxes{
-    background: #9ccc9a;
+    
     height:50px;
     width:250px;
 }
