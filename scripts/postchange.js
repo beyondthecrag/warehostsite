@@ -77,7 +77,8 @@ var textBlocks = [
   {
     text: "getting rlly into this one guy’s posts on cybercoven. his name is john, i figure he must be 40something (he posts about college in the 90s)  and his screen name is literally just “beepbeepbeepbeepbeep” lol. he’s the only user i’ve seen who reliably posts every single day and has been talking a lot about “scrolling-induced gnosis” which seems like a pretty optimistic frame for “screen damage” this is the part of his most recent post (they’re always rlly long run-on sentences) that got my attention today: IMG not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too? ",
     date: "april 18, 2019",
-    greeting: "luv, trinket"
+    greeting: "luv, trinket",
+    img: "img1"
   },
   //14
   {
@@ -466,6 +467,7 @@ var backBtn = document.getElementById("back-btn");
 var nextBtn = document.getElementById("next-btn");
 var goBtn = document.getElementById("go-btn");
 var pageNum = document.getElementById("page-num");
+var imgBlock = document.getElementById("img-block");
 dropdown.addEventListener("change", function(){
 });
 function jump(){
@@ -475,6 +477,7 @@ function jump(){
       dateBlockEl.textContent = textBlocks[index].date;
       greetingBlockEl.textContent = textBlocks[index].greeting;
       pageNum.textContent = index+1;
+      imgBlock.id = textBlocks[index].img;
 }
 
 
@@ -485,6 +488,7 @@ function updateTextBlock() {
   textBlockEl.textContent = textBlocks[index].text;
   dateBlockEl.textContent = textBlocks[index].date;
   greetingBlockEl.textContent = textBlocks[index].greeting;
+  imgBlock.id = textBlocks[index].img;
 }
 
 // Add event listeners to the back and next buttons

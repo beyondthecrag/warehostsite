@@ -286,3 +286,37 @@ a.southview{
 .song{
     width:50%;
 }
+/* images */
+#imgnone{
+    display: none;
+
+}
+.imgs{
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+}
+#img1{
+    
+    background-image:url("/impimg/img1.png")!important; 
+}
+#img2{
+    height: 200px;
+    width: 200px;
+    content:url("/impimg/img1.png");
+}
+#img3{
+    height: 200px;
+    width: 200px;
+    content:url("/impimg/img1.png");
+}
+#img4{
+    height: 200px;
+    width: 200px;
+    content:url("/impimg/img1.png");
+}
+#img5{
+    height: 200px;
+    width: 200px;
+    content:url("/impimg/img1.png");
+}
