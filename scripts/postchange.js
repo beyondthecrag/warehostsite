@@ -381,7 +381,7 @@ var textBlocks = [
   },
   //55
   {
-    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found one published by a mattress company that only works from 11pm-3am for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
+    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found one published by a mattress company that only works from 11pm-3pm for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
