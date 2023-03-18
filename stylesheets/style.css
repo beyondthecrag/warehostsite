@@ -38,7 +38,7 @@ header{
 
 .blogs{
     overflow-y: scroll;
-    height:700px;
+    height:600px;
 }
 .nav-boxes{
     width: 100% !important;
