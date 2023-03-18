@@ -35,15 +35,32 @@ header{
 
 }
 
-
+.blogs{
+    overflow-y: auto;
+    height:700px;
+}
+.nav-boxes{
+    width: 100% !important;
+    height: 100% !important;
+    background-color: #779c82 !important;
+    border: black solid 1px !important;
+    overflow-y: auto;
+}
+.side-title{
+    width: 100% !important;
+    height: 100px;
+    background-color: #0a0a0a;
+    text-align: center;
+}
 .blog-wrapper{
-
+    height: 700px;
+    overflow-x: hidden;
+    overflow-y: hidden;
     width: 100%;
-    height: 100%;
     font-size: 2rem;
-    border: 6px dashed #ffffff;
+    
 
-    background: rgb(126, 148, 125);
+    background-color: #adb6c2;
     
     color: white;
     
@@ -82,9 +99,9 @@ header{
   }
 .blog-title{
     text-align: left;
-    color:rgb(148, 148, 148);
+    color:rgb(176, 204, 223);
 
-  background: #414141;
+  background: #86a7c5;
   padding: 3px;
     font-size:12px;
     margin:0;
@@ -96,10 +113,19 @@ header{
     font-size:12px;
     margin:0;
 }
+.nav-boxes{
+    background: #9ccc9a;
+    height:50px;
+    width:250px;
+}
+.top-bar{
+    color:rgb(58, 99, 48);
+    background: #ffffff;
+}
 .blog-text{
     text-align: left;
-    color:white;
-    background: #cbcde9;
+    color:rgb(58, 99, 48);
+    background: #ffffff;
   padding: 3px;
     font-size:12px;
     margin:0;
@@ -185,9 +211,9 @@ header{
 
 }
 .side-right{
-    height:100%;
+    height:700px;
     width:100%;
-    background-image:url("../img/ang.png");
+    
 }
 @media only screen and (max-width: 900px) {
     html, body {
