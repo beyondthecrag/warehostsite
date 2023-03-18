@@ -562,6 +562,13 @@ function jump(){
         );
         
       }
+      else if(index==68){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/babbagelawfirm.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+        );
+      }
      
       
 }
@@ -581,6 +588,14 @@ function updateTextBlock() {
     subject.insertAdjacentHTML(
       "afterbegin",
       "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1527935166/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://weatherornot.bandcamp.com/album/come-in\">Come in by Weatherday</a></iframe>"
+    );
+    
+  }
+  else if(index==68){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"../audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
     );
   }
   
