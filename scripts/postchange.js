@@ -206,7 +206,7 @@ var textBlocks = [
   },
   //30
   {
-    text: "listening to my own voice Broken link: South View Cir 34.mp3",
+    text: "listening to my own voice https://plauge.town/SouthViewCir34.mp3",
     date: "may 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -227,7 +227,7 @@ var textBlocks = [
   },
   //33
   {
-    text: " Broken link: burnitout.mp3",
+    text: "https://plauge.town/burnitout.mp3",
     date: "may 30, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
