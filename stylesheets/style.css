@@ -5,11 +5,13 @@ html {
     overflow:auto;
     font-family: "Pixelated MS Sans Serif", Arial;
     -webkit-font-smoothing: none;
+    overflow-x: hidden;
   }
 body{
     margin:0;
     font-family: "Pixelated MS Sans Serif", Arial;
     -webkit-font-smoothing: none;
+    overflow-x: hidden;
 }
 .title{
     font-size:7rem;
