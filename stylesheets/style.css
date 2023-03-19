@@ -1,362 +1,230 @@
-html {
-    cursor: help;
-    -ms-touch-action: manipulation;
-    touch-action: manipulation;
+html{
+    cursor:help;
+    -ms-touch-action:manipulation;
+    touch-action:manipulation;
     overflow:auto;
-    font-family: "Pixelated MS Sans Serif", Arial;
-    -webkit-font-smoothing: none;
-    overflow-x: hidden;
-  }
+    font-family:"Pixelated MS Sans Serif",Arial;
+    -webkit-font-smoothing:none;
+    overflow-x:hidden
+}
 body{
     margin:0;
-    font-family: "Pixelated MS Sans Serif", Arial;
-    -webkit-font-smoothing: none;
-    overflow-x: hidden;
+    font-family:"Pixelated MS Sans Serif",Arial;
+    -webkit-font-smoothing:none;
+    overflow-x:hidden
 }
 .title{
     font-size:7rem;
-    color:white;
-    text-shadow: 0 0 5px black;
-
-}
-.event-wrapper{
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 100%;
-    font-size: 2rem;
-    padding: 2rem;
-    object-fit: cover;
-    background-color: beige;
-    /* background-image: url(../img/plag.jpeg); */
-    color: white;
+    color:#fff;
+    text-shadow:0 0 5px #000
 }
 .row{
-    margin-right: 0;
-    margin-left: 0;
-    --bs-gutter-x: 0px !important;
+    margin-right:0;
+    margin-left:0;
+    --bs-gutter-x:0px!important
 }
-header{
-    position: relative;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    transform-style: preserve-3d;
-    z-index: -1;
-
-}
-
 .blogs{
-    overflow-y: scroll;
-    overflow-x: hidden;
-    height:700px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    height:700px
 }
 .nav-boxes{
-    width: 100% !important;
-    height: 100% !important;
-    /*background-image: url(../img/grntreesbg.jpeg);*/
-    background-color: #d3eed3;
-    border: rgb(255, 255, 255) solid 1px !important;
-    overflow-y: auto;
+    width:100%!important;
+    height:100%!important;
+    background-color:#d3eed3;
+    border:#fff solid 1px!important;
+    overflow-y:auto
 }
 .side-title{
-    width: 100% !important;
-    height: 100px;
-    color:#ffffff;
-    background-image: url(../img/skylo.gif);
-    text-align: center;
-    font-size: 30px;
+    width:100%!important;
+    height:100px;
+    color:#fff;
+    background-image:url(../img/skylo.gif);
+    text-align:center;
+    font-size:30px
 }
 .blog-wrapper{
-    height: 100%;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    width: 100%;
-    background-color: #a2a1ac;
-    color: white;
-    
+    height:100%;
+    overflow-x:hidden;
+    overflow-y:hidden;
+    width:100%;
+    background-color:#a2a1ac;
+    color:#fff
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width:900px){
     .blog-wrapper{
-
-        width: 900px;
-        height: 100%;
-        font-size: 2rem;
-       
-        
-        
+        width:900px;
+        height:100%;
+        font-size:2rem
     }
-  }
-.blog-post{
-    overflow-y: scroll;
-    box-shadow: inset -1px -1px #0a0a0a,
-    inset 1px 1px #ffffff, inset -2px -2px #808080,
-    inset 2px 2px #dfdfdf;
-  background: #c0c0c0;
-  padding: 3px;
-    text-align: center;
-    height: auto;
-    width: 500px;
-    justify-content: center;
-    word-wrap: break-word;
-    margin-bottom:70px;
 }
-@media only screen and (max-width: 900px) {
+.blog-post{
+    overflow-y:scroll;
+    box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #fff,inset -2px -2px grey,inset 2px 2px #dfdfdf;
+    background:silver;
+    padding:3px;
+    text-align:center;
+    height:auto;
+    width:500px;
+    justify-content:center;
+    word-wrap:break-word;
+    margin-bottom:70px
+}
+@media only screen and (max-width:900px){
     .blog-post{
-
-        width: 300px;
-        margin-bottom:40px;
+        width:300px;
+        margin-bottom:40px
     }
-  }
+}
 .blog-title{
-    text-align: left;
-    color:rgb(176, 204, 223);
-
-  background: #86a7c5;
-  padding: 3px;
+    text-align:left;
+    color:#b0ccdf;
+    background:#86a7c5;
+    padding:3px;
     font-size:12px;
-    margin:0;
+    margin:0
 }
 .blog-date{
-    text-align: left;
-    color:rgb(158, 151, 196);
-    
+    text-align:left;
+    color:#9e97c4;
     font-size:12px;
-    margin:0;
+    margin:0
 }
 .nav-boxes{
-    
     height:50px;
-    width:250px;
-}
-.top-bar{
-    color:rgb(58, 99, 48);
-    background: #ffffff;
+    width:250px
 }
 .blog-text{
-    text-align: left;
-    color:rgb(58, 99, 48);
-    background: #ffffff;
-  padding: 3px;
+    text-align:left;
+    color:#3a6330;
+    background:#fff;
+    padding:3px;
     font-size:12px;
     margin:0;
-    box-shadow: inset -1px -1px #ffffff,
-    inset 1px 1px #ffffff, inset -2px -2px #808080,
-    inset 2px 2px #dfdfdf;
+    box-shadow:inset -1px -1px #fff,inset 1px 1px #fff,inset -2px -2px grey,inset 2px 2px #dfdfdf
 }
 .wrapper{
-    overflow-x: hidden;
-    justify-content: center;
-    padding-bottom: 50px;
-    padding-top: 50px;
-    background-image: url("../img/siding.png");
-    padding-left: 100px;
-    padding-right: 200px;
+    overflow-x:hidden;
+    justify-content:center;
+    padding-bottom:50px;
+    padding-top:50px;
+    background-image:url(../img/siding.png);
+    padding-left:100px;
+    padding-right:200px
 }
 .side-bar{
-    width: 100px;
+    width:100px;
     height:100%;
-    border: black;
-    background-image:url("../img/pc.png");
+    border:#000;
+    background-image:url(../img/pc.png)
 }
-button,
-label,
-input,
-textarea,
-select,
-.window,
-.title-bar {
-  font-size: 11px;
+.title-bar,.window,button,input,label{
+    font-size:11px
 }
-button {
-    box-sizing: border-box;
-    border: none;
-    background: #c0c0c0;
-    box-shadow: inset -1px -1px #0a0a0a,
-      inset 1px 1px #ffffff, inset -2px -2px #808080,
-      inset 2px 2px #dfdfdf;
-    border-radius: 0;
-  
-    min-width: 75px;
-    min-height: 23px;
-    padding: 0 12px;
-  }
-@media only screen and (max-width: 900px) {
+button{
+    box-sizing:border-box;
+    border:none;
+    background:silver;
+    box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #fff,inset -2px -2px grey,inset 2px 2px #dfdfdf;
+    border-radius:0;
+    min-width:75px;
+    min-height:23px;
+    padding:0 12px
+}
+@media only screen and (max-width:900px){
     .side-bar{
-        display:none;
-        
-        
+        display:none
     }
     .wrapper{
-        width: 100%;
-        overflow-x: hidden;
-        justify-content: center;
-        padding-bottom: 50px;
-        padding-top: 50px;
-        background-image: url("../img/siding.png");
-        padding-left: 50px;
-        padding-right: 50px;
+        width:100%;
+        overflow-x:hidden;
+        justify-content:center;
+        padding-bottom:50px;
+        padding-top:50px;
+        background-image:url(../img/siding.png);
+        padding-left:50px;
+        padding-right:50px
     }
-  }
-.error{
-    background-image:url("../img/sky.jpeg");
-    color:yellow;
-    font-size: 60px;
-    margin-right:20px;
-    margin-left:20px;
-    height:100vh;
-    padding-top:200px;
-    padding:50px;
-}
-.pics-wrapper{
-    height: 100vh;
-    overflow-y:auto;
-    overflow-x: hidden;
-    perspective: 10px;
-    justify-content: center;
-    padding-bottom: 50px;
-    padding-top: 50px;
-    pointer-events: none;
-    background-image:url("../img/picbg.jpeg");
-    padding-left: 100px;
-    padding-right: 200px;
 }
 .img-wrapper{
-    
     height:100vh;
-    pointer-events: none;
+    pointer-events:none
 }
 .blog-post-img{
     height:100%;
     width:100%;
-    pointer-events: none;
-    padding:10px;
-
+    pointer-events:none;
+    padding:10px
 }
-
 .page-num{
-    color: #ff9c24;
-	text-align: left;
-	font-family: 'Comic Sans MS';
-	font-size: 20px;
-	padding: 5px;
-    background:white;
-
+    color:#ff9c24;
+    text-align:left;
+    font-family:'Comic Sans MS';
+    font-size:20px;
+    padding:5px;
+    background:#fff
 }
 .side-right{
     height:700px;
-    width:100%;
-    
+    width:100%
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width:900px){
     .side-right{
-        display:none;
- }
-}
-
-@media only screen and (max-width: 900px) {
-    html, body {
-        overflow-x: hidden;
-      }
-      body {
-        position: relative
-      }
-    .middle{
-        
-        width: 300px;
-        
+        display:none
     }
-  }
-.top-text{
-    height:100px;
-    width:900px;
-
 }
-@media only screen and (max-width: 900px) {
-    .top-text{
-        max-width: 300px;
-        height:100px;
- }
+@media only screen and (max-width:900px){
+    body,html{
+        overflow-x:hidden
+    }
+    body{
+        position:relative
+    }
+    .middle{
+        width:300px
+    }
 }
 .bot-button{
-    max-height: 50px;
-    width: 100%;
+    max-height:50px;
+    width:100%
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width:900px){
     .bot-button{
         height:300px;
-        width: 300px;
- }
-}
-.bot-bord{
-    max-height: 50px;
-    width: 100%;
-}
-a.southview{
-    color: #ceaafc;
-}
-.fairy{
-    background-image:url("../img/fairy.gif");
-}
-.playlist-wrapper{
-    height: 100vh;
-    overflow-y:auto;
-    overflow-x: hidden;
-    perspective: 10px;
-    justify-content: center;
-    padding-bottom: 50px;
-    padding-top: 50px;
-    
-    background-color:white;
-    padding-left: 100px;
-    padding-right: 200px;
-}
-.song-wrapper{
-    background-image:url("../img/cd.png");
-    
-    
-}
-.song{
-    width:50%;
-}
-/* images */
-#imgnone{
-    display: none;
-
+        width:300px
+    }
 }
 .imgs{
-    display: flex;
-    justify-content: center;
-    width: 450px;
-    background-size: cover;
-    margin:auto;
-
+    display:flex;
+    justify-content:center;
+    width:450px;
+    background-size:cover;
+    margin:auto
 }
 #img1{
-    height: 384px;
-    background-image:url("../impimg/img1.png")!important; 
+    height:384px;
+    background-image:url(../impimg/img1.png)!important
 }
 #img2{
-    height: 350px;
-    content:url("../impimg/img2.png");
+    height:350px;
+    content:url(../impimg/img2.png)
 }
 #img3{
-    height: 350px;
-    content:url("../impimg/img3.png");
+    height:350px;
+    content:url(../impimg/img3.png)
 }
 #img4{
-    height: 350px;
-    content:url("../impimg/img4.png");
+    height:350px;
+    content:url(../impimg/img4.png)
 }
 #img5{
-    height: 350px;
-    content:url("../impimg/img5.png");
+    height:350px;
+    content:url(../impimg/img5.png)
 }
 #img6{
-    height: 350px;
-    content:url("../impimg/img6.png");
+    height:350px;
+    content:url(../impimg/img6.png)
 }
 .page-num{
-    font-size:12px !important;
+    font-size:12px!important
 }
