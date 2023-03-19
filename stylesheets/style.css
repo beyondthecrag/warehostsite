@@ -53,7 +53,7 @@ header{
     width: 100% !important;
     height: 100% !important;
     /*background-image: url(../img/grntreesbg.jpeg);*/
-    background-color: #b9ecb9;
+    background-color: #d3eed3;
     border: rgb(255, 255, 255) solid 1px !important;
     overflow-y: auto;
 }
@@ -71,7 +71,7 @@ header{
     overflow-y: hidden;
     width: 100%;
     font-size: 2rem;
-    background-color: #949494;
+    background-color: #a2a1ac;
     color: white;
     
 }
@@ -163,12 +163,8 @@ label,
 input,
 textarea,
 select,
-option,
-ul.tree-view,
 .window,
 .title-bar {
-  font-family: "Pixelated MS Sans Serif", Arial;
-  -webkit-font-smoothing: none;
   font-size: 11px;
 }
 button {
