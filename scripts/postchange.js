@@ -528,10 +528,10 @@ var textBlocks = [
   },
 
 ];
-textBlocks=textBlocks.reverse();
+
 
 // Set the initial index to 0 (the first text block)
-var index = 0;
+var index = 74;
 var pageNum = 0;
 // Get references to the HTML elements
 var textBlockEl = document.getElementById("text-block");
@@ -539,6 +539,8 @@ var dateBlockEl = document.getElementById("date-block");
 var greetingBlockEl = document.getElementById("greeting-block");
 var backBtn = document.getElementById("back-btn");
 var nextBtn = document.getElementById("next-btn");
+var startBtn = document.getElementById("start-btn");
+var endBtn = document.getElementById("end-btn");
 var goBtn = document.getElementById("go-btn");
 var pageNum = document.getElementById("page-num");
 var imgBlock = document.getElementById("img-block");
@@ -554,7 +556,7 @@ function jump(){
       greetingBlockEl.textContent = textBlocks[index].greeting;
       pageNum.textContent = index+1;
       imgBlock.id = textBlocks[index].img;
-      if(index==5){
+      if(index==18){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -562,28 +564,28 @@ function jump(){
         );
         
       }
-      else if(index==68){
+      else if(index==6){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<audio controls> <source src=\"../audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
+          "<audio controls> <source src=\"./audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==63){
+      else if(index==11){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
           "<audio controls> <source src=\"./audio/runawayrunaway.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==35){
+      else if(index==39){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
           "<audio controls> <source src=\"./audio/pendrydr13.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==51){
+      else if(index==23){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -604,7 +606,7 @@ function updateTextBlock() {
   dateBlockEl.textContent = textBlocks[index].date;
   greetingBlockEl.textContent = textBlocks[index].greeting;
   imgBlock.id  = textBlocks[index].img;
-  if(index==5){
+  if(index==18){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
@@ -612,28 +614,28 @@ function updateTextBlock() {
     );
     
   }
-  else if(index==68){
+  else if(index==6){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
       "<audio controls> <source src=\"../audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
     );
   }
-  else if(index==63){
+  else if(index==11){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
       "<audio controls> <source src=\"./audio/runawayrunaway.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
-  else if(index==35){
+  else if(index==39){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
       "<audio controls> <source src=\"./audio/pendrydr13.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
-  else if(index==51){
+  else if(index==23){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
@@ -641,12 +643,13 @@ function updateTextBlock() {
     );
   }
  
+ 
   
   
 }
 
 // Add event listeners to the back and next buttons
-backBtn.addEventListener("click", function() {
+nextBtn.addEventListener("click", function() {
   if (index > 0) {
     index--;
     document.getElementById("subject").innerHTML = "";
@@ -654,12 +657,22 @@ backBtn.addEventListener("click", function() {
   }
 });
 
-nextBtn.addEventListener("click", function() {
+backBtn.addEventListener("click", function() {
   if (index < textBlocks.length - 1) {
     index++;
     document.getElementById("subject").innerHTML = "";
     updateTextBlock();
   }
+});
+startBtn.addEventListener("click", function() {
+    index=74;
+    document.getElementById("subject").innerHTML = "";
+    updateTextBlock();
+});
+endBtn.addEventListener("click", function() {
+    index=0;
+    document.getElementById("subject").innerHTML = "";
+    updateTextBlock();
 });
 goBtn.addEventListener("click", function() {
   document.getElementById("subject").innerHTML = "";
