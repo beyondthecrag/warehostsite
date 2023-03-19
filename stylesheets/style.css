@@ -3,9 +3,13 @@ html {
     -ms-touch-action: manipulation;
     touch-action: manipulation;
     overflow:auto;
+    font-family: "Pixelated MS Sans Serif", Arial;
+    -webkit-font-smoothing: none;
   }
 body{
     margin:0;
+    font-family: "Pixelated MS Sans Serif", Arial;
+    -webkit-font-smoothing: none;
 }
 .title{
     font-size:7rem;
@@ -49,8 +53,8 @@ header{
     width: 100% !important;
     height: 100% !important;
     /*background-image: url(../img/grntreesbg.jpeg);*/
-    background-color: #95c295;
-    border: black solid 1px !important;
+    background-color: #b9ecb9;
+    border: rgb(255, 255, 255) solid 1px !important;
     overflow-y: auto;
 }
 .side-title{
@@ -67,7 +71,7 @@ header{
     overflow-y: hidden;
     width: 100%;
     font-size: 2rem;
-    background-color: #5f5f5f;
+    background-color: #949494;
     color: white;
     
 }
@@ -154,6 +158,32 @@ header{
     border: black;
     background-image:url("../img/pc.png");
 }
+button,
+label,
+input,
+textarea,
+select,
+option,
+ul.tree-view,
+.window,
+.title-bar {
+  font-family: "Pixelated MS Sans Serif", Arial;
+  -webkit-font-smoothing: none;
+  font-size: 11px;
+}
+button {
+    box-sizing: border-box;
+    border: none;
+    background: #c0c0c0;
+    box-shadow: inset -1px -1px #0a0a0a,
+      inset 1px 1px #ffffff, inset -2px -2px #808080,
+      inset 2px 2px #dfdfdf;
+    border-radius: 0;
+  
+    min-width: 75px;
+    min-height: 23px;
+    padding: 0 12px;
+  }
 @media only screen and (max-width: 900px) {
     .side-bar{
         display:none;
