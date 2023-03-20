@@ -144,21 +144,26 @@ function updateGalleryImg() {
 }
 
 // Add event listeners to the back and next buttons
-imgnextBtn.addEventListener("click", function() {
+imgbackBtn.addEventListener("click", function() {
   if (index > 0) {
     index--;
     document.getElementById("subject").innerHTML = "";
     updateGalleryImg();
   }
+  if (index == 0){
+    index=galBlocks.length - 1;
+    document.getElementById("subject").innerHTML = "";
+    updateGalleryImg();
+  }
 });
 
-imgbackBtn.addEventListener("click", function() {
+imgnextBtn.addEventListener("click", function() {
   if (index < galBlocks.length - 1) {
     index++;
     document.getElementById("subject").innerHTML = "";
     updateGalleryImg();
   }
-  if (index = galBlock.length-1){
+  if (index == galBlocks.length-1){
     index=0;
     document.getElementById("subject").innerHTML = "";
     updateGalleryImg();

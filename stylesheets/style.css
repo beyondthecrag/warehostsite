@@ -58,6 +58,29 @@ body{
         font-size:2rem
     }
 }
+.gallery-title{
+    width:100%!important;
+    height:100px;
+    color:#fff;
+    background-color:#9e97c4;
+    text-align:center;
+    font-size:30px
+}
+.gallery-wrapper{
+    height:100%;
+    overflow-x:hidden;
+    overflow-y:hidden;
+    width:100%;
+    background-image: url(../img/galback.gif);
+    color:#fff
+}
+@media only screen and (max-width:900px){
+    .gallery-wrapper{
+        width:900px;
+        height:100%;
+        font-size:2rem
+    }
+}
 .blog-post{
     overflow-y:scroll;
     box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #fff,inset -2px -2px grey,inset 2px 2px #dfdfdf;
@@ -72,6 +95,25 @@ body{
 }
 @media only screen and (max-width:900px){
     .blog-post{
+        width:300px;
+        margin-bottom:40px
+    }
+}
+.gallery-post{
+    
+    overflow-y:scroll;
+    box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #fff,inset -2px -2px grey,inset 2px 2px #dfdfdf;
+    background:silver;
+    padding:3px;
+    text-align:center;
+    height:auto;
+    width:900px;
+    justify-content:center;
+    word-wrap:break-word;
+    margin-bottom:70px
+}
+@media only screen and (max-width:900px){
+    .gallery-post{
         width:300px;
         margin-bottom:40px
     }
@@ -94,6 +136,7 @@ body{
     height:50px;
     width:250px
 }
+
 .blog-text{
     text-align:left;
     color:#3a6330;
@@ -231,7 +274,7 @@ button{
 .galleryimgs{
     display:flex;
     justify-content:center;
-    width:100%;
+    height:100%;
     background-size:cover;
     margin:auto
 }
