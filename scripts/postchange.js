@@ -539,7 +539,6 @@ var dateBlockEl = document.getElementById("date-block");
 var greetingBlockEl = document.getElementById("greeting-block");
 var backBtn = document.getElementById("back-btn");
 var nextBtn = document.getElementById("next-btn");
-var startBtn = document.getElementById("start-btn");
 var endBtn = document.getElementById("end-btn");
 var goBtn = document.getElementById("go-btn");
 var pageNum = document.getElementById("page-num");
@@ -664,11 +663,7 @@ backBtn.addEventListener("click", function() {
     updateTextBlock();
   }
 });
-startBtn.addEventListener("click", function() {
-    index=74;
-    document.getElementById("subject").innerHTML = "";
-    updateTextBlock();
-});
+
 endBtn.addEventListener("click", function() {
     index=0;
     document.getElementById("subject").innerHTML = "";

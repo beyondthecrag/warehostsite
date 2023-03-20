@@ -228,3 +228,104 @@ button{
 .page-num{
     font-size:12px!important
 }
+.galleryimgs{
+    display:flex;
+    justify-content:center;
+    width:450px;
+    height:450px;
+    background-size:cover;
+    margin:auto
+}
+#gallery1{
+    content:url(../gallery/1.gif)
+}
+#gallery2{
+    content:url(../gallery/2.HEIC)
+}
+#gallery3{
+    content:url(../gallery/3.heic)
+}
+#gallery4{
+    content:url(../gallery/4.HEIC)
+}
+#gallery5{
+    content:url(../gallery/5.heic)
+}
+#gallery6{
+    content:url(../gallery/6.HEIC)
+}
+#gallery7{
+    content:url(../gallery/7.heic)
+}
+#gallery8{
+    content:url(../gallery/8.HEIC)
+}
+#gallery9{
+    content:url(../gallery/9.png)
+}
+#gallery10{
+    content:url(../gallery/10.png)
+}
+#gallery11{
+    content:url(../gallery/11.png)
+}
+#gallery12{
+    content:url(../gallery/12.png)
+}
+#gallery13{
+    content:url(../gallery/13.png)
+}
+#gallery14{
+    content:url(../gallery/14.png)
+}
+#gallery15{
+    content:url(../gallery/15.png)
+}
+#gallery16{
+    content:url(../gallery/16.png)
+}
+#gallery17{
+    content:url(../gallery/17.png)
+}
+#gallery18{
+    content:url(../gallery/18.png)
+}
+#gallery19{
+    content:url(../gallery/19.png)
+}
+#gallery20{
+    content:url(../gallery/20.png)
+}
+#gallery21{
+    content:url(../gallery/21.png)
+}
+#gallery22{
+    content:url(../gallery/22.png)
+}
+#gallery23{
+    content:url(../gallery/23.png)
+}
+#gallery24{
+    content:url(../gallery/24.jpg)
+}
+#gallery25{
+    content:url(../gallery/25.jpg)
+}
+#gallery26{
+    content:url(../gallery/26.jpg)
+}
+#gallery27{
+    content:url(../gallery/27.jpg)
+}
+#gallery28{
+    content:url(../gallery/28.jpg)
+}
+#gallery29{
+    content:url(../gallery/29.jpg)
+}
+#gallery30{
+    content:url(../gallery/30.jpg)
+}
+#gallery31{
+    content:url(../gallery/31.jpg)
+}
