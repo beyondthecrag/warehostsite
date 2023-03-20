@@ -158,6 +158,11 @@ imgbackBtn.addEventListener("click", function() {
     document.getElementById("subject").innerHTML = "";
     updateGalleryImg();
   }
+  if (index = galBlock.length-1){
+    index=0;
+    document.getElementById("subject").innerHTML = "";
+    updateGalleryImg();
+  }
 });
 
 updateGalleryImg();
