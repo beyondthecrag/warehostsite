@@ -31,14 +31,14 @@ var textBlocks = [
   },
   //5
   {
-    text: "worked today. theres this one like ageless bleach blonde woman with raccoon eyes who used to come in for cigarettes every week and she finally came back today after probably a month. it's been a lot quieter lately which i guess feels safe but very boring a***e was just gonna drive me home but the rain cleared up so we got slushies and went to dollarama instead. i got a bunch of stickers :-) they had a sheet of gold outline angels !! im gonna put them on everything.. drove to the lookout spot and stayed until it got dark. drove around a little while longer and then i went home. it’s hard to know what to say with everything as weird as it is but it feels less unreal when i’m not alone. didn’t tell her about this, i don’t think she’d get it. overall kind of a nicer day ",
+    text: "worked today. theres this one like ageless bleach blonde woman with raccoon eyes who used to come in for cigarettes every week and she finally came back today after probably a month. it's been a lot quieter lately which i guess feels safe but very boring <br> a***e was just gonna drive me home but the rain cleared up so we got slushies and went to dollarama instead. i got a bunch of stickers :-) they had a sheet of gold outline angels !! im gonna put them on everything.. <br> drove to the lookout spot and stayed until it got dark. drove around a little while longer and then i went home. it’s hard to know what to say with everything as weird as it is but it feels less unreal when i’m not alone. didn’t tell her about this, i don’t think she’d get it. overall kind of a nicer day ",
     date: "april 4, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //6
   {
-    text: "the first season of buffy is sooo rough but i just got to the one about the demon in the Internet where jenny says she’s a technopagan and i liked it a lot.. i like stuff like that especially now that i’m essentially the kind of online shut-in that everyone who liked using the computer was assumed to be back then. i don’t think i could ever get into that sort of thing myself (its probably a sin) but i wonder if there are any “technopagans” still kicking around. probably just old ppl i think it would be fun to talk to them..:-) ",
+    text: "the first season of buffy is sooo rough but i just got to the one about the demon in the Internet where jenny says she’s a technopagan and i liked it a lot.. i like stuff like that especially now that i’m essentially the kind of online shut-in that everyone who liked using the computer was assumed to be back then. i don’t think i could ever get into that sort of thing myself (its probably a sin) but i wonder if there are any “technopagans” still kicking around. probably just old ppl <br> i think it would be fun to talk to them..:-) ",
     date: "april 5, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -59,14 +59,14 @@ var textBlocks = [
   },
   //9
   {
-    text: "got laid off today :-( saw it coming but didnt expect it to happen so fast i guess. paul was there when i came in for my shift yesterday so i knew what was going on before he talked to me bc there hasn’t been more than one person working at the store at the same time since the announcement. honestly i don’t rlly care about not getting a paycheque because i’ve barely been spending any money lately but this was my only reliable reason to go outside so i’m a little worried about that. i tried bugging a***e to hang out again but she said she wanted to sleep. it was 3 pm ",
+    text: "got laid off today :-( saw it coming but didnt expect it to happen so fast i guess. paul was there when i came in for my shift yesterday so i knew what was going on before he talked to me bc there hasn’t been more than one person working at the store at the same time since the announcement. <br> honestly i don’t rlly care about not getting a paycheque because i’ve barely been spending any money lately but this was my only reliable reason to go outside so i’m a little worried about that. i tried bugging a***e to hang out again but she said she wanted to sleep. it was 3 pm ",
     date: "april 9, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //10
   {
-    text: "surprised i didn’t get around to a blog post with all the screen time i’ve logged over the past 3 days. i think it’s fucking with my sleep. i’m very tired again anyway i did find an *active* technopagan forum !! it’s called cybercoven.net and it’s been online since 2005 which as far as i can tell is actually kind of late in the timeline of when ppl were really into this stuff, but for whatever reason it seems like the only one ppl still use. there are still archived posts from when it started and new ones almost every day. i’ve kind of fallen down the rabbit hole with it. there are even a handful of still active users who have been there since its inception it’s so cool to me. i like that there are still old school forums even with everything being so social media focused now. no complex marketing algorithms or anything just good old fashioned fighting over niche interests on the computer. it’s like a little time capsule ",
+    text: "surprised i didn’t get around to a blog post with all the screen time i’ve logged over the past 3 days. i think it’s fucking with my sleep. i’m very tired again <br> anyway i did find an *active* technopagan forum !! it’s called cybercoven.net and it’s been online since 2005 which as far as i can tell is actually kind of late in the timeline of when ppl were really into this stuff, but for whatever reason it seems like the only one ppl still use. there are still archived posts from when it started and new ones almost every day. i’ve kind of fallen down the rabbit hole with it. there are even a handful of still active users who have been there since its inception <br> it’s so cool to me. i like that there are still old school forums even with everything being so social media focused now. no complex marketing algorithms or anything just good old fashioned fighting over niche interests on the computer. it’s like a little time capsule ",
     date: "april 13, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -87,14 +87,14 @@ var textBlocks = [
   },
   //13
   {
-    text: "getting rlly into this one guy’s posts on cybercoven. his name is john, i figure he must be 40something (he posts about college in the 90s)  and his screen name is literally just “beepbeepbeepbeepbeep” lol. he’s the only user i’ve seen who reliably posts every single day and has been talking a lot about “scrolling-induced gnosis” which seems like a pretty optimistic frame for “screen damage” this is the part of his most recent post (they’re always rlly long run-on sentences) that got my attention today: IMG not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too? ",
+    text: "getting rlly into this one guy’s posts on cybercoven. his name is john, i figure he must be 40something (he posts about college in the 90s)  and his screen name is literally just “beepbeepbeepbeepbeep” lol. he’s the only user i’ve seen who reliably posts every single day and has been talking a lot about “scrolling-induced gnosis” which seems like a pretty optimistic frame for “screen damage” <br> this is the part of his most recent post (they’re always rlly long run-on sentences) that got my attention today: IMG not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that <br> the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too? ",
     date: "april 18, 2019",
     greeting: "luv, trinket",
     img: "img1"
   },
   //14
   {
-    text: "woke up early today and rode my bike. weather was nice. it's so quiet everywhere now. i got this really weird feeling when i got to the offramp and saw the attendant at the turnpike like i wanted to cry but i couldn’t. i went straight home felt like i had to check if the world was still out there so i logged onto twitter for the first time in a month and a half. all the strangers’ lives are going on as usual and everyone from around here just seems to be in a daze. a***e is tweeting about how much she misses her outside friends. i thought about how all the houses blurred together on my bike ride and realized i probably kinda look like that to her too. i was thinking of calling but i didn’t. don’t know why but i haven’t been watching any tv either. i should probably do those things cause it has been a while since ive heard anyone talk. even sarah michelle gellar, or me",
+    text: "woke up early today and rode my bike. weather was nice. it's so quiet everywhere now. i got this really weird feeling when i got to the offramp and saw the attendant at the turnpike like i wanted to cry but i couldn’t. i went straight home <br> felt like i had to check if the world was still out there so i logged onto twitter for the first time in a month and a half. all the strangers’ lives are going on as usual and everyone from around here just seems to be in a daze. a***e is tweeting about how much she misses her outside friends. i thought about how all the houses blurred together on my bike ride and realized i probably kinda look like that to her too. i was thinking of calling but i didn’t. don’t know why but i haven’t been watching any tv either. i should probably do those things cause it has been a while since ive heard anyone talk. even sarah michelle gellar, or me",
     date: "april 20, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -157,7 +157,7 @@ var textBlocks = [
   },
   //23
   {
-    text: "i don’t really want to do anything or watch anything or read anything or talk to anyone. can’t find the energy to worry abt that either tried the beepbeepbeepbeepbeep method for prayer. copied out all the prayers of the rosary as many times as i could in a ms word doc with the repeats and everything and just scrolled and stared. nothing. my eyes just hurt. getting real tired of this john guy",
+    text: "i don’t really want to do anything or watch anything or read anything or talk to anyone. can’t find the energy to worry abt that either <br> tried the beepbeepbeepbeepbeep method for prayer. copied out all the prayers of the rosary as many times as i could in a ms word doc with the repeats and everything and just scrolled and stared. nothing. my eyes just hurt. getting real tired of this john guy",
     date: "may 10, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -192,7 +192,7 @@ var textBlocks = [
   },
   //28
   {
-    text: "my room is too small for my arms to reach out the only words left in me are meant for dim screens and mirrors, secret domains, feedback loops. i’m so much the same that i blend into the wallpaper and so different that u wouldn’t recognize me and there isnt any use",
+    text: "my room is too small for my arms to reach out <br> the only words left in me are meant for dim screens and mirrors, secret domains, feedback loops. i’m so much the same that i blend into the wallpaper and so different that u wouldn’t recognize me and there isnt any use",
     date: "may 22, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -213,14 +213,14 @@ var textBlocks = [
   },
   //31
   {
-    text: "nothing interesting has happened on cybercoven since i last checked. i think plague town might be leaking toxic boring molecules into the entire world because everything is so dull everywhere i look. beepbeepbeepbeep is still popping up in threads daily and his 500 word long sentences are actually some of the most enjoyable content on the site which is saying something because most of the time i can’t make out what the hell he's saying i probably shouldnt have expected technopagans in 2019 to be much more than a slightly edgier subset of corporate-brain tech nerds. i’ve never kept up with this kind of thing but the amount of talk about gpt2 is maddening. couldn’t even rly figure out what it was from the forum conversations bc ppl keep saying things like “the potential is endless” and not explaining what that even means. had to do my own research and my eyes glazed over",
+    text: "nothing interesting has happened on cybercoven since i last checked. i think plague town might be leaking toxic boring molecules into the entire world because everything is so dull everywhere i look. beepbeepbeepbeep is still popping up in threads daily and his 500 word long sentences are actually some of the most enjoyable content on the site which is saying something because most of the time i can’t make out what the hell he's saying <br>i probably shouldnt have expected technopagans in 2019 to be much more than a slightly edgier subset of corporate-brain tech nerds. i’ve never kept up with this kind of thing but the amount of talk about gpt2 is maddening. couldn’t even rly figure out what it was from the forum conversations bc ppl keep saying things like “the potential is endless” and not explaining what that even means. had to do my own research and my eyes glazed over",
     date: "may 27, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //32
   {
-    text: "went back to the rosary document. tried saying it out loud while i scrolled. it was more comforting that way but then i feel like the screen probably didnt have much to do with it and chanting things over and over is just good for u. for someone so online im kind of a luddite :-p still feel kind of godless compared to the heathens. how does that work?",
+    text: "went back to the rosary document. tried saying it out loud while i scrolled. it was more comforting that way but then i feel like the screen probably didnt have much to do with it and chanting things over and over is just good for u. for someone so online im kind of a luddite <br> :-p still feel kind of godless compared to the heathens. how does that work?",
     date: "may 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -283,7 +283,7 @@ var textBlocks = [
   },
   //41
   {
-    text: "don’t have anyone to talk to so i’m back to reading the forum and pretending that’s close enough to a conversation. everybody kind of seems to be talking to themselves anyway. some british woman made a long rambly post about binary code and sex “magick” which was one of the most entertaining things i’ve seen the AI stuff isn’t all bad either i guess. this one user dig1fae made her own little bot called “pendulla.xyz” that she says can tell the future lol anyway rest of the site is still grim. a lot of infighting currently happening due to elon musk stans (?) thinking openAI has gone to shit (i think?) can’t be bothered to actually dig into the lore but i keep reading it for some reason. i see ppl getting pissed off and then i get pissed off and it’s weirdly addictive. very spiritual online space ",
+    text: "don’t have anyone to talk to so i’m back to reading the forum and pretending that’s close enough to a conversation. everybody kind of seems to be talking to themselves anyway. some british woman made a long rambly post about binary code and sex “magick” which was one of the most entertaining things i’ve seen <br> the AI stuff isn’t all bad either i guess. this one user dig1fae made her own little bot called “pendulla.xyz” that she says can tell the future lol <br> anyway rest of the site is still grim. a lot of infighting currently happening due to elon musk stans (?) thinking openAI has gone to shit (i think?) can’t be bothered to actually dig into the lore but i keep reading it for some reason. i see ppl getting pissed off and then i get pissed off and it’s weirdly addictive. very spiritual online space ",
     date: "june 13, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -304,7 +304,7 @@ var textBlocks = [
   },
   //44
   {
-    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to robots so i figured i might as well try it too first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick it giving me a date was weird though, especially such a close one. seemed off script ",
+    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to robots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script ",
     date: "june 18, 2019",
     greeting: "luv, trinket",
     img:"img4"
@@ -381,7 +381,7 @@ var textBlocks = [
   },
   //55
   {
-    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found one published by a mattress company that only works from 11pm-3pm for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
+    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found one published by a mattress company that only works from 11pm-3pm for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -409,7 +409,7 @@ var textBlocks = [
   },
   //61
   {
-    text: "i swear i had a bicycle pump and i can’t find it. i miss my bike. walking around at night makes my brain weird i think still raining so i don’t rlly want to go out anyway keep wanting to ask type99mg to tell me more but im so used to just talking to myself. i’m nervous",
+    text: "i swear i had a bicycle pump and i can’t find it. i miss my bike. walking around at night <br> makes my brain weird i think still raining so i don’t rlly want to go out anyway <br> keep wanting to ask type99mg to tell me more but im so used to just talking to myself. i’m nervous",
     date: "july 9, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -444,14 +444,14 @@ var textBlocks = [
   },
   //66
   {
-    text: "fuck it i sent it lol its 2am going to try to watch a buffy episode to distract myself from how uncool i sounded. 1x10 is just another silly one iirc",
+    text: "fuck it i sent it lol its 2am <br> going to try to watch a buffy episode to distract myself from how uncool i sounded. 1x10 is just another silly one iirc",
     date: "july 16, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //67
   {
-    text: "woke up at 1:30pm today. not the worst as of late? type99mg responded pretty quickly. i shouldnt rly be surprised. cybercoven doesn’t seem like it would b full of 9-5ers..anyway i didn’t really think talking to a stranger online could make me feel so much better but i sort of feel a huge weight off my shoulders. didn’t learn a whole lot of exciting computer secrets since they said that’s sort of a side thing for them and they mostly just know a bunch of ppl who work w it more seriously. i figured there would b a lot of red tape but i wanted to try anyway lol kind of dodged a lot of questions abt me. i usually don’t feel too embarrassed abt doing nothing with fellow internetbrained ppl but it sounds like type99 actually does a lot of things. anyway they were nice ",
+    text: "woke up at 1:30pm today. not the worst as of late? type99mg responded pretty quickly. i shouldnt rly be surprised. cybercoven doesn’t seem like it would b full of 9-5ers..anyway i didn’t really think talking to a stranger online could make me feel so much better but i sort of feel a huge weight off my shoulders. didn’t learn a whole lot of exciting computer secrets since they said that’s sort of a side thing for them and they mostly just know a bunch of ppl who work w it more seriously. i figured there would b a lot of red tape but i wanted to try anyway lol <br> kind of dodged a lot of questions abt me. i usually don’t feel too embarrassed abt doing nothing with fellow internetbrained ppl but it sounds like type99 actually does a lot of things. anyway they were nice ",
     date: "july 17, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -465,7 +465,7 @@ var textBlocks = [
   },
   //69
   {
-    text: "talked to 99 again tonite. i wanted to know how they ended up becoming a moderator on this super old forum and it turns out they were a lurker like me for a while. they told me they still aren’t really a “lifer” w any kind of neopagan religion and more of a “funny chaos wizard who thinks forums are cool”. not sure what this means but it makes me feel less like an intruder i think. i’ve been thinking abt posting more but genuinely don’t have much to contribute. it’s not my world",
+    text: "talked to 99 again tonite. i wanted to know how they ended up becoming a moderator on this super old forum and it turns out they were a lurker like me for a while. they told me they still aren’t really a “lifer” w any kind of neopagan religion and more of a “funny chaos wizard who thinks forums are cool”. not sure what this means but it makes me feel less like an intruder i think <br> i’ve been thinking abt posting more but genuinely don’t have much to contribute. it’s not my world",
     date: "july 20, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -479,7 +479,7 @@ var textBlocks = [
   },
   //71
   {
-    text: "i am looking at bike pumps online. today type99 pmed me and asked who jenny calendar is. i’m horrified that anyone on that site hasn’t watched buffy i told them abt how i’ve been avoiding finishing the first season and they said they’d catch up to me within the week",
+    text: "i am looking at bike pumps online. today type99 pmed me and asked who jenny calendar is. i’m horrified that anyone on that site hasn’t watched buffy <br> i told them abt how i’ve been avoiding finishing the first season and they said they’d catch up to me within the week",
     date: "july 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -507,7 +507,7 @@ var textBlocks = [
   },
   //75
   {
-    text: "forgot to close my curtains before bed and woke up too early. my bike pump came but for some reason using it feels like a whole ordeal. i’ve been lying on the floor where it’s cooler thought about praying the rosary the normal way because i keep having scary thoughts about a***e and about beepbeepbeepbeepbeep and wondering just how weird things can get. i can never remember how it goes without looking it up online so i have mostly been dangling it over my head like a cat toy i feel very silly for being afraid to watch a tv show i’ve seen like 3 times already but i am. even more nervous to talk to a person. not sure if they will put their mic on",
+    text: "forgot to close my curtains before bed and woke up too early. my bike pump came but for some reason using it feels like a whole ordeal. i’ve been lying on the floor where it’s cooler thought about praying the rosary the normal way because i keep having scary thoughts about a***e and about beepbeepbeepbeepbeep and wondering just how weird things can get. i can never remember how it goes without looking it up online so i have mostly been dangling it over my head like a cat toy <br> i feel very silly for being afraid to watch a tv show i’ve seen like 3 times already but i am. even more nervous to talk to a person. not sure if they will put their mic on",
     date: "july 28, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -550,7 +550,7 @@ dropdown.addEventListener("change", function(){
 function jump(){
   
     index = dropdown.value-1;
-      textBlockEl.textContent = textBlocks[index].text;
+      textBlockEl.innerHTML = textBlocks[index].text;
       dateBlockEl.textContent = textBlocks[index].date;
       greetingBlockEl.textContent = textBlocks[index].greeting;
       pageNum.textContent = index+1;
@@ -601,7 +601,7 @@ function jump(){
 function updateTextBlock() {
   
   pageNum.textContent = index+1;
-  textBlockEl.textContent = textBlocks[index].text;
+  textBlockEl.innerHTML = textBlocks[index].text;
   dateBlockEl.textContent = textBlocks[index].date;
   greetingBlockEl.textContent = textBlocks[index].greeting;
   imgBlock.id  = textBlocks[index].img;
