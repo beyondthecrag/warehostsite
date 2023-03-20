@@ -59,7 +59,7 @@ var textBlocks = [
   },
   //9
   {
-    text: "got laid off today :-( saw it coming but didnt expect it to happen so fast i guess. paul was there when i came in for my shift yesterday so i knew what was going on before he talked to me bc there hasn’t been more than one person working at the store at the same time since the announcement. <br> honestly i don’t rlly care about not getting a paycheque because i’ve barely been spending any money lately but this was my only reliable reason to go outside so i’m a little worried about that. i tried bugging a***e to hang out again but she said she wanted to sleep. it was 3 pm ",
+    text: "got laid off today :-( saw it coming but didnt expect it to happen so fast i guess. paul was there when i came in for my shift yesterday so i knew what was going on before he talked to me bc there hasn’t been more than one person working at the store at the same time since the announcement <br> honestly i don’t rlly care about not getting a paycheque because i’ve barely been spending any money lately but this was my only reliable reason to go outside so i’m a little worried about that. i tried bugging a***e to hang out again but she said she wanted to sleep. it was 3 pm ",
     date: "april 9, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
