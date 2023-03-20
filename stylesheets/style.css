@@ -231,8 +231,7 @@ button{
 .galleryimgs{
     display:flex;
     justify-content:center;
-    width:450px;
-    height:450px;
+    width:100%;
     background-size:cover;
     margin:auto
 }
