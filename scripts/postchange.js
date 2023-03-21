@@ -101,138 +101,145 @@ var textBlocks = [
   },
   //15
   {
+    text: "rpickmeup.m4a",
+    date: "april 21, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //16
+  {
     text: "rode my bike. didn’t touch the computer till now, don’t think it’s helping",
     date: "april 22, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //16
+  //17
   {
     text: "rode my bike, watched half a buffy episode, read the forum",
     date: "april 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //17
+  //18
   {
     text: "very into toast",
     date: "april 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //18
+  //19
   {
     text: "i think if i had to imagine myself in this situation a few years ago (a few months ago?) i would have hoped it would spur on a tortured genius masterpiece or something similar but everything i write is so boring and emo i don't even want to record it",
     date: " april 27, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //19
+  //20
   {
     text: "sleep in while ur doing ur best https://weatherornot.bandcamp.com/album/come-in ",
     date: "april 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //20
+  //21
   {
     text: "getting kind of bored of the internet. i think my brain is so trained on the calculated maxing out of my reward centers via social media algorithms that limiting myself to my little homepage and forums doesn’t hit the same. seems like i wasn’t the only one who paid attention to that beepbeepbeepbeepbeep post, but everyone else seems to have taken it as a prompt to argue about AI. i don’t know who bothers me more: team ~utopia~ or the hand-wringers",
     date: "may 1, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //21
+  //22
   {
     text: "the weirder it gets the harder it is to find anything to say. or to feel much at all",
     date: "may 3, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //22
+  //23
   {
     text: "went out on my bike today and saw the store totally closed. i counted every person i saw today. 6 (and 2 dogs) doesn’t seem like terribly few. i’m not alone. right?",
     date: "may 6, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //23
+  //24
   {
     text: "i don’t really want to do anything or watch anything or read anything or talk to anyone. can’t find the energy to worry abt that either <br> tried the beepbeepbeepbeepbeep method for prayer. copied out all the prayers of the rosary as many times as i could in a ms word doc with the repeats and everything and just scrolled and stared. nothing. my eyes just hurt. getting real tired of this john guy",
     date: "may 10, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //24
+  //25
   {
     text: "Audio clip: feeling weird.mp3 ",
     date: "may 15, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //25
+  //26
   {
     text: "i have been looking at the birds outside my window. i realized i don't know the names of many birds. i haven't learned any new ones recently",
     date: "may 16, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //26
+  //27
   {
     text: "today i rode my bike in a circle. i went in the opposite direction from the one i usually do. i think it's counter clockwise from my house. it didn’t really change anything. i think it's weird that i t*rrented an entire series 2 months ago and haven't gotten past the first season. for some reason i rlly don't want to watch the season 1 finale",
     date: "may 18, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //27
+  //28
   {
     text: "i'm thinking about how, every time i was in a different town, i would go to walmart, and the walmart always looked the same but felt different. i would like to go inside the walmart",
-    date: "march 24, 2019",
+    date: "may 19, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //28
+  //29
   {
     text: "my room is too small for my arms to reach out <br> the only words left in me are meant for dim screens and mirrors, secret domains, feedback loops. i’m so much the same that i blend into the wallpaper and so different that u wouldn’t recognize me and there isnt any use",
     date: "may 22, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //29
+  //30
   {
     text: "all my decor is making me feel nauseous. it’s just clutter. shoved a bunch into a box under my bed",
     date: "may 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //30
+  //31
   {
-    text: "listening to my own voice https://plauge.town/SouthViewCir34.mp3",
+    text: "listening to my own voice https://plauge.town/SouthViewCir34.m4a",
     date: "may 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //31
+  //32
   {
     text: "nothing interesting has happened on cybercoven since i last checked. i think plague town might be leaking toxic boring molecules into the entire world because everything is so dull everywhere i look. beepbeepbeepbeep is still popping up in threads daily and his 500 word long sentences are actually some of the most enjoyable content on the site which is saying something because most of the time i can’t make out what the hell he's saying <br>i probably shouldnt have expected technopagans in 2019 to be much more than a slightly edgier subset of corporate-brain tech nerds. i’ve never kept up with this kind of thing but the amount of talk about gpt2 is maddening. couldn’t even rly figure out what it was from the forum conversations bc ppl keep saying things like “the potential is endless” and not explaining what that even means. had to do my own research and my eyes glazed over",
     date: "may 27, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //32
+  //33
   {
     text: "went back to the rosary document. tried saying it out loud while i scrolled. it was more comforting that way but then i feel like the screen probably didnt have much to do with it and chanting things over and over is just good for u. for someone so online im kind of a luddite <br> :-p still feel kind of godless compared to the heathens. how does that work?",
     date: "may 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //33
+  //34
   {
-    text: "https://plauge.town/burnitout.mp3",
+    text: "https://plauge.town/burnitout.m4a",
     date: "may 30, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //34
+    //35
   {
     text: "getting tired of my bed and sitting on the floor a lot",
     date: "may 30, 2019",
@@ -241,159 +248,174 @@ var textBlocks = [
   },
   //35
   {
+    text: "getting tired of sitting and lying on the floor a lot",
+    date: "june 2, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //36
+  {
     text: "logged onto twitter again and got a rlly weird msg from an account with no followers or tweets this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird",
     date: "june 4, 2019",
     greeting: "luv, trinket",
     img:"img2"
   },
-  //36
+  //37
   {
     text: "couldnt sleep last night so i slept all day instead. had a dream i was back in high school and everything i said came up on a smartboard and then my old science teacher came in, but in my brain he was beepbeepbeepbeepbeep from cybercoven and he turned off the smartboard and then i couldnt talk. havent really done much since i got up. ate like half a sleeve of breton crackers lol",
     date: "june 5, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //37
+  //38
   {
     text: "finally messaged the account back i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game ",
     date: "june 7, 2019",
     greeting: "luv, trinket",
     img:"img3"
   },
-  //38
+  //39
   {
-    text: " left the house for the first time in a week and got a flat going over a curb :-)",
+    text: " left the house for the first time in a week and got a flat going over a hole in our shitty roads :-)",
     date: "june 10, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //39
+  //40
   {
     text: "just took a walk around outside. haven’t been paying much attention to the clock so i’m not sure when i decided to leave but it’s 2:33am now.. it’s funny because i still feel kind of scared in the dark even though it’s not like i see many more ppl out during the day. i keep thinking about that message ",
     date: " june 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //40
+  //41
   {
     text: "Audio clip: Pendry Dr 13.mp3",
     date: "june 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //41
+  //42
   {
     text: "don’t have anyone to talk to so i’m back to reading the forum and pretending that’s close enough to a conversation. everybody kind of seems to be talking to themselves anyway. some british woman made a long rambly post about binary code and sex “magick” which was one of the most entertaining things i’ve seen <br> the AI stuff isn’t all bad either i guess. this one user dig1fae made her own little bot called “pendulla.xyz” that she says can tell the future lol <br> anyway rest of the site is still grim. a lot of infighting currently happening due to elon musk stans (?) thinking openAI has gone to shit (i think?) can’t be bothered to actually dig into the lore but i keep reading it for some reason. i see ppl getting pissed off and then i get pissed off and it’s weirdly addictive. very spiritual online space ",
     date: "june 13, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //42
+  //43
   {
     text: "don’t know if it would be worse to suffocate or to die of exposure. still no reply on twitter",
     date: "march 24, 2019",
     greeting: "june 15, 2019",
     img:"imgnone"
   },
-  //43
+  //44
   {
     text: "i’ve been thinking about it and i don’t like it",
     date: "june 16, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //44
+  //45
   {
     text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to bots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script ",
     date: "june 18, 2019",
     greeting: "luv, trinket",
     img:"img4"
   },
-  //45
+  //46
   {
     text: "the message is gone, along with the whole account. if i didn’t take a screenshot i’d think it was all another weird dream. death to bots btw",
     date: "june 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //46
+  //47
   {
     text: "can’t sleep",
     date: "june 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //47
+  //48
   {
     text: "i wonder if ppl see me from their houses, wandering around at nite",
     date: "june 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //48
+  //49
   {
     text: "i think the world might rlly be ending",
     date: "june 25, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //49
+  //50
   {
     text: "finally got some decent sleep. i think i’m probably just pretending to lose my mind a little bit. less boring than looking out and knowing i have no clue what’s going on and that i’m probably not nearly as upset about it as i should be",
     date: "june 26, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //50
+  //51
   {
     text: "mad at the sun. just want something to happen",
     date: "june 28, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //51
+  //52
   {
     text: "maybe it was some weirdo messing with a bunch of ppl. maybe they sent that message 50 times and switched the name. they probably just got suspended for spam. i don’t think i believe that though",
     date: "june 30, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //52
+  //53
   {
     text: "if AI is the future just get it over with and infect me now ",
     date: "july 1, 2019",
     greeting: "luv, trinket",
     img:"img5"
   },
-  //53
+  //54
   {
     text: "it’s getting so hot outside that it’s hot inside too. haven’t been out in the daylight for a while so i didn’t rlly notice. i’ve been drinking a cup of tea at the same time every day for a while but hot drinks are yucky now. will have to find something else. i was thinking about how we used to get stuck inside for recess a lot during the last week of school when i was little and i remembered how one summer used to feel really far from the next",
     date: "july 2, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //54
+  //55
   {
     text: "didn’t sleep at all last night. too hot",
     date: "july 3, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //55
+  //56
   {
     text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
     img:"img10"
   },
-  //56
+  //57
   {
     text: "i spent a lot of money on this drink with like lumps of jelly in it. my store was the only place in town that had it and amazon only sells it in packs of 24. my only joy now is chewing on beverages",
     date: "july 6, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //57
+  //58
+  {
+    text: "officially overcame lurker status on cybercoven. beepbeepbeepbeepbeep decided 2 share his entire life story on a pretty lighthearted post and curiosity got the best of me. had to make an account and everything so i picked a rlly dumb user lol. spent longer on the jenny edit than i’d like 2 admit. thread here: i feel a little embarrassed because obviously i have no clue what i’m talking abt here but i think that’s why i’m frustrated in the first place. i sound like such a downer. i guess i feel like one too. i do want to get it i think ",
+    date: "july 7, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //59
+  
   {
     text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my posti have 2 say it is very nice to be called ~refreshing~ after feeling so stale for a very long time kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do ",
     date: "july 7, 2019 ",
@@ -598,67 +620,173 @@ var textBlocks = [
   },
   //88
   {
-    text: "COME BACK: 99 sends trinket electronic music",
-    date: "august 11, 2019",
+    text: "rlly rlly rlly cool",
+    date: "august 9, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //89
   {
-    text: "i have named the blackbird drusilla and have been watching it intently. i think i have really fucked up",
-    date: "august 11, 2019",
+    text: "COME BACK: 99 sends trinket electronic music",
+    date: "august 10, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //90
   {
-    text: "summer always makes me hazy and weird and this whole year has been hazy and weird so im very very hazy and very very weird. i went for a rlly long bike ride today with a rlly silly idea in my head <br> stopped a bunch of times to collect a lot of pretty weeds/wildflowers/whatever and i rode to the highway offramp. they do not have a lot of attendants working the turnpike. it was someone id seen before. i bet the shifts are long. i bet hardly anyone comes through. i’m surprised i don’t see ppl screaming at her. i used to see stuff like that all the time at like. mcdonalds lol. i bet they do though. i bet i just miss it. i looked at her for a very long time. she looked at her phone a lot and then she looked at me and i think i was starting to freak her out so i looked at the limp little bouquet hanging off my handlebar and remembered that i have always been too sentimental for my own good and i rode around a while with a lot of buzzing in my head and i went home. it’s sitting in a little green plastic cup next to my bed. i think it’s mostly dead ",
-    date: "august 13, 2019",
-    greeting: "luv, trinket",
-    img:"img9"
-  },
-  //91
-  {
-    text: "started season 2 with 99 today. i think i like buffy better now that she’s all freaky and pissed off 99 wants to talk about the bad stuff. i don’t rlly want to anymore. it was a rlly dumb idea to tell anyone and i keep getting frustrated because she wants to fix it and i know she means well but it just seems rlly rlly naïve ",
-    date: "august 14, 2019",
+    text: "i have named the blackbird drusilla and have been watching it intently. i think i have rlly fucked up",
+    date: "august 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
+  //91
+  {
+    text: "summer always makes me hazy and weird and this whole year has been hazy and weird so im very very hazy and very very weird. i went for a rlly long bike ride today with a rlly silly idea in my head <br> stopped a bunch of times to collect a lot of pretty weeds/wildflowers/whatever and i rode to the highway offramp. they do not have a lot of attendants working the turnpike. it was someone id seen before. i bet the shifts are long. i bet hardly anyone comes through. i’m surprised i don’t see ppl screaming at her. i used to see stuff like that all the time at like. mcdonalds lol. i bet they do though. i bet i just miss it. i looked at her for a very long time. she looked at her phone a lot and then she looked at me and i think i was starting to freak her out so i looked at the limp little bouquet hanging off my handlebar and remembered that i have always been too sentimental for my own good and i rode around a while with a lot of buzzing in my head and i went home. it’s sitting in a little green plastic cup next to my bed. i think it’s mostly dead ",
+    date: "august 14, 2019",
+    greeting: "luv, trinket",
+    img:"img9"
+  },
   //92
   {
-    text: "i’ve ruined it. it feels rlly real now and it doesn’t seem fair and i’m all irritable",
+    text: "started season 2 with 99 today. i think i like buffy better now that she’s all freaky and pissed off 99 wants to talk about the bad stuff. i don’t rlly want to anymore. it was a rlly dumb idea to tell anyone and i keep getting frustrated because she wants to fix it and i know she means well but it just seems rlly rlly naïve ",
     date: "august 16, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //93
   {
+    text: "i’ve ruined it. it feels real now and it doesn’t seem fair and i’m all irritable",
+    date: "august 18, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //94
+  {
     text: "i have a cup of lawn waste next to my bed. it doesn’t smell very nice. i don’t want to get rid of it",
     date: "august 20, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //94
+  //95
   {
     text: "COME BACK: trinket: hey considering that u now have actual cl*ssif*ed information from me. could u please tell me a little bit more about the AI junk it’s not like i have anyone to tell lol 99: would u get on the phone? ",
     date: "august 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //95
+   //96
   {
     text: "kind of nervous posting. theres a lot i cant say",
     date: "august 25, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
+  //97
+  {
+    text: "my head keeps me up so late and that fucking bird gets me up so early and i’m tired and i can’t think straight",
+    date: "august 29, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //98
+  {
+    text: "life only gets weirder. the towns taking the lack of traffic as a chance to finally fix the road near the highway. can hear the noise/very faintly smell hot dug up asphalt from here. when i go outside the air is so full of smog and ragweed and dandelion seeds that it’s easier to breathe in here which is saying something. been checking my dms out of habit more than hope at this point and twitter still clearly hasn’t fixed their bot problem ",
+    date: "september 5, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
 
+  //99
+  {
+    text: "rest in peace jenny calendar. cried @ her death and this time 99 heard me since i’ve been turning my mic on as of late. embarrassing but at least now she knows why i hate angel so much (i have been very dedicated to not providing spoilers) <br> in other news 99 is a twitter user and says she hasn’t noticed anything weird on the site. trying not to spiral about this",
+    date: "september 8, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+
+  //100
+  {
+    text: "trying not to spiral about this pt. 2: funny but “buffy” is too weird. is 99 fucking with me??",
+    date: "september 12, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //101
+  {
+    text: "took me long enough but i took my little “bouquet” out to the garbage (it’s been a rotten tangle of stems for a while). threw the cup out too",
+    date: "september 14, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //102
+  {
+    text: "beepbeepbeepbeepbeep is finally back. very back. opened cybercoven and it looked like this:tried to read them but everything except for “Updates to Sabaoth engine” have had the body text deleted with the classic [USER WAS BANNED FOR THIS POST]. kind of hard to believe. it was always weird to me that john wasn’t a mod himself. here’s what i could actually read:what’s even more confusing is that when i asked 99 she said she had been working that night and didnt see it go down <br> the “update” if anything seems tame for him. i can’t explain it but i feel like i need to know what else he said. it’s not curiosity. it feels like something bad is going to happen if i don’t find out. i get that he is just touched in the head but i am feeling toucheder and toucheder myself :-( ",
+    date: "september 21, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //103
+  {
+    text: "mods updated. 99 said no one tried to contact her. more questions than answers. i want to log off and forget about all of it but i can’t stop looking. can’t even go outside with how awful the air is. september’s almost over and it still feels like stepping out into an oven",
+    date: "september 21, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //104
+  {
+    text: "was too scared to check my twitter account until now. these are from the 21st i can spiral now right? ",
+    date: "september 28, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //105
+  {
+    text: "just woke up. it’s 3pm. did not see or hear drusilla the blackbird today <br> ",
+    date: "september 31, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //106
+  {
+    text: "i have been thinking about it and i think i should stop updating soon. maybe it’ll make all this stop. at least it would feel less like my fault",
+    date: "october 1, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //107
+  {
+    text: "tse1925.mp3",
+    date: "august 25, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+  //108
+  {
+    text: "image",
+    date: "august 25, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
+
+//there are 109 posts
+//index 0-108
+//subtract 1 from post num
 
 ];
 
 
 // Set the initial index to 0 (the first text block)
-var index = 74;
+var index = 108;
 var pageNum = 0;
 // Get references to the HTML elements
 var textBlockEl = document.getElementById("text-block");
