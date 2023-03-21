@@ -526,6 +526,133 @@ var textBlocks = [
     greeting: "luv, trinket",
     img:"imgnone"
   },
+  //78
+  {
+    text: "inside day today. checked twitter. don’t think i expected to see anything but it’s hard not to hope a little <br> this is kind of weird though considering i havent tweeted anything since march. i guess bots r taking over like they did on tumblr?",
+    date: "july 31, 2019",
+    greeting: "luv, trinket",
+    img:"img7"
+  },
+  //79
+  {
+    text: "fuck shit fuck <br> i am rlly bad at dodging questions. to b fair i havent been asked any in such a long time. might log off forever now lol :-))",
+    date: "august 1, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //80
+  {
+    text: "avoided going online yesterday like type99 was going to jump out of my screen & demand an explanation. i am so bored that i finally cleaned my room. apparently the floor actually extends to all 4 corners.. who knew !!",
+    date: "august 3, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //81
+  {
+    text: "do i take the out",
+    date: "august 3, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //82
+  {
+    text: "",
+    date: "august 4, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //83
+  {
+    text: "didn’t take the out. in spite of myself i continue not to vanish off the face of the earth. playing along is distracting her from my weird cybersecurity habits anyway. will update ",
+    date: "august 5, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //84
+  {
+    text: "there is a red winged blackbird screeching outside my window. he starts very early in the morning",
+    date: "august 6, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //85
+  {
+    text: "the air is so heavy with pollen. every time i go out i am sneezing a lot. concerned i may go to Hell due to no one being around to bless me..<br> 99 replaced a few of the scribbled out lyrics for me (she said the block in the middle was good and is trying to convince me to keep it) and sent me some guitar. it’s the kind of thing i play so i’m not as intimidated as i expected. i think i will try to sing to it today. very scary ",
+    date: "august 6, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //86
+  {
+    text: "Audio clip: buffy the vampire slayer.mp3",
+    date: "august 8, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //87
+  {
+    text: "beepbeepbeepbeepbeep has been silent on cybercoven since i replied to him. i’ve never seen him quiet. very unnerving",
+    date: "august 8, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //88
+  {
+    text: "COME BACK: 99 sends trinket electronic music",
+    date: "august 11, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //89
+  {
+    text: "i have named the blackbird drusilla and have been watching it intently. i think i have really fucked up",
+    date: "august 11, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //90
+  {
+    text: "summer always makes me hazy and weird and this whole year has been hazy and weird so im very very hazy and very very weird. i went for a rlly long bike ride today with a rlly silly idea in my head <br> stopped a bunch of times to collect a lot of pretty weeds/wildflowers/whatever and i rode to the highway offramp. they do not have a lot of attendants working the turnpike. it was someone id seen before. i bet the shifts are long. i bet hardly anyone comes through. i’m surprised i don’t see ppl screaming at her. i used to see stuff like that all the time at like. mcdonalds lol. i bet they do though. i bet i just miss it. i looked at her for a very long time. she looked at her phone a lot and then she looked at me and i think i was starting to freak her out so i looked at the limp little bouquet hanging off my handlebar and remembered that i have always been too sentimental for my own good and i rode around a while with a lot of buzzing in my head and i went home. it’s sitting in a little green plastic cup next to my bed. i think it’s mostly dead ",
+    date: "august 13, 2019",
+    greeting: "luv, trinket",
+    img:"img9"
+  },
+  //91
+  {
+    text: "started season 2 with 99 today. i think i like buffy better now that she’s all freaky and pissed off 99 wants to talk about the bad stuff. i don’t rlly want to anymore. it was a rlly dumb idea to tell anyone and i keep getting frustrated because she wants to fix it and i know she means well but it just seems rlly rlly naïve ",
+    date: "august 14, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //92
+  {
+    text: "i’ve ruined it. it feels rlly real now and it doesn’t seem fair and i’m all irritable",
+    date: "august 16, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //93
+  {
+    text: "i have a cup of lawn waste next to my bed. it doesn’t smell very nice. i don’t want to get rid of it",
+    date: "august 20, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //94
+  {
+    text: "COME BACK: trinket: hey considering that u now have actual cl*ssif*ed information from me. could u please tell me a little bit more about the AI junk it’s not like i have anyone to tell lol 99: would u get on the phone? ",
+    date: "august 21, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+  //95
+  {
+    text: "kind of nervous posting. theres a lot i cant say",
+    date: "august 25, 2019",
+    greeting: "luv, trinket",
+    img:"imgnone"
+  },
+
 
 ];
 
