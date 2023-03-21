@@ -402,7 +402,7 @@ button{
 }
 
 .modal-content img {
-    width: 100%;
+    width: 70%;
     height: auto;
 }
 
@@ -412,6 +412,6 @@ button{
     right: 10px;
     font-size: 30px;
     font-weight: bold;
-    color: white;
+    color: rgb(54, 141, 69);
     cursor: pointer;
 }
