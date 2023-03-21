@@ -402,8 +402,8 @@ button{
 }
 
 .modal-content img {
-    width: 70%;
-    height: auto;
+    width: auto;
+    height: 100%;
 }
 
 .close {
