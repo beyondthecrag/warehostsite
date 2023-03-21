@@ -73,7 +73,7 @@ var textBlocks = [
   },
   //11
   {
-    text: "there are full-on turnpikes where the signs used to be at the highway exits",
+    text: "there are full-on turnpikes where the signs used to be at the highway exits now",
     date: "april 14, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -304,7 +304,7 @@ var textBlocks = [
   },
   //44
   {
-    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to robots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script ",
+    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to bots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script ",
     date: "june 18, 2019",
     greeting: "luv, trinket",
     img:"img4"
@@ -381,10 +381,10 @@ var textBlocks = [
   },
   //55
   {
-    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found one published by a mattress company that only works from 11pm-3pm for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
+    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img10"
   },
   //56
   {
@@ -395,7 +395,7 @@ var textBlocks = [
   },
   //57
   {
-    text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my post: Come back: Insert thread feeling surprisingly excited..i’m ~refreshing~ !! :-) kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do",
+    text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my posti have 2 say it is very nice to be called ~refreshing~ after feeling so stale for a very long time kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do ",
     date: "july 7, 2019 ",
     greeting: "luv, trinket",
     img:"img6"
@@ -416,14 +416,14 @@ var textBlocks = [
   },
   //62
   {
-    text: "i think i dropped buffy bc thinking abt the apocalypse makes me nervous. could always just skip the s1 finale. or i could be a big girl and watch it lol. just getting freaked out a little too easily these days. maybe beepbeepbeepbeepbeep got to me. speaking of john it’s weird that he didn’t have anything to say. did i hurt his feelings? lol genuinely getting invested in forum politics pls kill me. i need a hobby",
+    text: "i think i dropped buffy bc thinking abt the apocalypse makes me nervous. could always just skip the s1 finale. or alternatively i could b a big girl lol. just getting freaked out a little too easily these days. maybe beepbeepbeepbeepbeep got to me. speaking of john it’s weird that he didn’t have anything to say. did i hurt his feelings? lol genuinely getting invested in forum politics pls kill me. i need a hobby",
     date: "july 11, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //63
   {
-    text: "the thread is all old now but i keep rereading that response. still laughing at the sentence 'we’ve never even seen a chimpanzee at its maximum potential”. i guess we rlly haven’t.. i feel like maybe i managed to sort of numb my desire to human connection and getting a little bit of it fucked me all the way back up. their profile says they “like friends”. hard 2 remember but i think i do too? (COME BACK: SCREENSHOT OF PROFILE)",
+    text: "the thread is all old now but i keep rereading that response. still laughing at the sentence 'we’ve never even seen a chimpanzee at its maximum potential”. i guess we rlly haven’t <br> i feel like maybe i managed to sort of numb my desire to human connection and getting a little bit of it fucked me all the way back up. her profile says she “likes friends”. hard 2 remember but i think i do too? (COME BACK: SCREENSHOT OF PROFILE)",
     date: "july 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -451,7 +451,7 @@ var textBlocks = [
   },
   //67
   {
-    text: "woke up at 1:30pm today. not the worst as of late? type99mg responded pretty quickly. i shouldnt rly be surprised. cybercoven doesn’t seem like it would b full of 9-5ers..anyway i didn’t really think talking to a stranger online could make me feel so much better but i sort of feel a huge weight off my shoulders. didn’t learn a whole lot of exciting computer secrets since they said that’s sort of a side thing for them and they mostly just know a bunch of ppl who work w it more seriously. i figured there would b a lot of red tape but i wanted to try anyway lol <br> kind of dodged a lot of questions abt me. i usually don’t feel too embarrassed abt doing nothing with fellow internetbrained ppl but it sounds like type99 actually does a lot of things. anyway they were nice ",
+    text: "woke up at 1:30pm today. not the worst as of late? type99mg responded pretty quickly. i shouldnt rly be surprised. cybercoven doesn’t seem like it would b full of 9-5ers..anyway i didn’t really think talking to a stranger online could make me feel so much better but i sort of feel a huge weight off my shoulders. didn’t learn a whole lot of exciting computer secrets since she said that’s sort of a side thing for her and she mostly just know a bunch of ppl who work w it more seriously. i figured there would b a lot of red tape but i wanted to try anyway lol <br> kind of dodged a lot of questions abt me. i usually don’t feel too embarrassed abt doing nothing with fellow internetbrained ppl but it sounds like type99 actually does a lot of things. anyway she was nice ",
     date: "july 17, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -465,7 +465,7 @@ var textBlocks = [
   },
   //69
   {
-    text: "talked to 99 again tonite. i wanted to know how they ended up becoming a moderator on this super old forum and it turns out they were a lurker like me for a while. they told me they still aren’t really a “lifer” w any kind of neopagan religion and more of a “funny chaos wizard who thinks forums are cool”. not sure what this means but it makes me feel less like an intruder i think <br> i’ve been thinking abt posting more but genuinely don’t have much to contribute. it’s not my world",
+    text: "talked to 99 again tonite. i wanted to know how she ended up becoming a moderator on this super old forum and it turns out she was a lurker like me for a while. she told me she still isn't really a “lifer” w any kind of neopagan religion and more of a “funny chaos wizard who thinks forums are cool”. not sure what this means but it makes me feel less like an intruder i think <br> i’ve been thinking abt posting more but genuinely don’t have much to contribute. not rlly my world i guess",
     date: "july 20, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -479,7 +479,7 @@ var textBlocks = [
   },
   //71
   {
-    text: "i am looking at bike pumps online. today type99 pmed me and asked who jenny calendar is. i’m horrified that anyone on that site hasn’t watched buffy <br> i told them abt how i’ve been avoiding finishing the first season and they said they’d catch up to me within the week",
+    text: "i am looking at bike pumps online. today type99 pmed me and asked who jenny calendar is. i’m horrified that anyone on that site hasn’t watched buffy <br> i told them abt how i’ve been avoiding finishing the first season and she said she would catch up to me within the week",
     date: "july 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -514,14 +514,14 @@ var textBlocks = [
   },
   //76
   {
-    text: "they did put their mic on but i did not due to being a terminal scaredycat :-) to be fair they could have been a fed or thought i sounded weird. or both !! i did give them my protonmail address though. i was getting nervous having a long possibly traceable conversation on cybercoven it was nice hearing someone talk during the episode. not sure if i would have started spiraling otherwise or not. it felt just as silly as the rest of the season. i think i overblew it in my head COME BACK: BUFFY EPISODE BLOG ",
+    text: "she did put her mic on but i did not because 1. she might think i sounded weird or they might be a fed or both and 2. i am not sure i remember how to speak to a person using my voice in the first place. i did however give her my protonmail address so we could talk more without making me so nervous abt leaving a trail i definitely overblew the episode in my head. it’s pretty much as corny and fun as the others. i did get a little weepy at buffy saying “it’s just been a really weird day” after closing the literal hellmouth so im glad type99 couldn’t hear me. felt a lot like the way i’ve been feeling somehow <br> when the master brought forth all the freaky slimy demons i thought a little about beepbeepbeepbeepbeep releasing a bunch of manyeyed angels from the heavens and what it would look like if that happened all at once and then i asked 99 what she does so that i would stop thinking about that she said she makes “music on the computer” and do “various other tasks for other ppl who make music on the computer”. regretted asking bc obviously the question was returned and my stupid brain told me to say that i make music on the phone which is sort of a massive exaggeration. still embarrassed but anyway it was very nice to have someone talk to me. her voice is very nice to listen to ",
     date: "july 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //77
   {
-    text: "woke up feeling pretty okay but i fixed my tire and as soon as i got on my bike again it was like i had never stopped. not in a nice way. it’s not even like i’m seeing the same things i was back then, not rlly. the light has changed and all the plants are growing but it all feels like, idk, abandoned theme park and im on the same nauseating carousel ride as always. i didn’t see a single person out today. it’s bad when these people stop caring about their lawns. i imagined the grass growing higher than all the copypasted front porches and through the cracks of the doors and locking everybody in forever. imagined type99mg going about their cool and normal life with their cool and normal tech friends. imagined a***e, didn’t know how to imagine her, stopped imagining, came home",
+    text: "woke up feeling pretty okay but i fixed my tire and as soon as i got on my bike again it was like i had never stopped. not in a nice way. it’s not even like i’m seeing the same things i was back then, not rlly. the light has changed and all the plants are growing but it all feels like, idk, abandoned theme park and im on the same nauseating carousel ride as always. i didn’t see a single person out today. it’s bad when these people stop caring about their lawns. i imagined the grass growing higher than all the copypasted front porches and through the cracks of the doors and locking everybody in forever. imagined type99mg going about her cool and normal life with her cool and normal tech friends. imagined a***e, didn’t know how to imagine her, stopped imagining, came home",
     date: "july 30, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
