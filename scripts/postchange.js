@@ -45,7 +45,7 @@ var textBlocks = [
   },
   //7
   {
-    text: "Audio clip: Babbage Law Firm.mp3",
+    text: "Babbage Law Firm.mp3",
     date: "april 6, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -80,7 +80,7 @@ var textBlocks = [
   },
   //12
   {
-    text: "thinking abt mars argo Audio clip: runaway runaway.mp3 ",
+    text: "thinking abt mars argo <br> runaway runaway.mp3 ",
     date: "april 15, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -235,7 +235,7 @@ var textBlocks = [
   //34
   {
     text: "https://plauge.town/burnitout.m4a",
-    date: "may 30, 2019",
+    date: "may 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
@@ -246,7 +246,7 @@ var textBlocks = [
     greeting: "luv, trinket",
     img:"imgnone"
   },
-  //35
+  //35 dupe (36)
   {
     text: "getting tired of sitting and lying on the floor a lot",
     date: "june 2, 2019",
@@ -501,7 +501,7 @@ var textBlocks = [
   },
   //71
   {
-    text: "i am looking at bike pumps online. today type99 pmed me and asked who jenny calendar is. i’m horrified that anyone on that site hasn’t watched buffy <br> i told them abt how i’ve been avoiding finishing the first season and she said she would catch up to me within the week",
+    text: "i am looking at bike pumps online. today type99 pmed me and asked who jenny calendar is. i’m horrified that anyone on that site hasn’t watched buffy <br> i told her abt how i’ve been avoiding finishing the first season and she said she would catch up to me within the week",
     date: "july 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -592,7 +592,7 @@ var textBlocks = [
   },
   //84
   {
-    text: "there is a red winged blackbird screeching outside my window. he starts very early in the morning",
+    text: "there is a red winged blackbird screeching outside my window. she starts very early in the morning",
     date: "august 6, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -606,7 +606,7 @@ var textBlocks = [
   },
   //86
   {
-    text: "Audio clip: buffy the vampire slayer.mp3",
+    text: "buffy the vampire slayer.mp3",
     date: "august 8, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
