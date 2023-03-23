@@ -888,6 +888,27 @@ function jump(){
           "<div class=\"imgs\" id=\"img6\"></div><div class=\"imgs\" id=\"img17\"></div><div class=\"imgs\" id=\"img10\"></div>"
         );
       }
+      else if(index==107){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/tse1925.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+        );
+      }
+      else if(index==88){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/azurglade_-_all_of_that_will_be_mine.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+        );
+      }
+      else if(index==86){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<audio controls> <source src=\"./audio/buffy_the_vampire_slayer.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+        );
+      }
      
       
 }
@@ -985,6 +1006,20 @@ function updateTextBlock() {
     subject.insertAdjacentHTML(
       "afterbegin",
       "<audio controls> <source src=\"./audio/tse1925.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+    );
+  }
+  else if(index==88){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"./audio/azurglade_-_all_of_that_will_be_mine.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+    );
+  }
+  else if(index==86){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"./audio/buffy_the_vampire_slayer.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
  
