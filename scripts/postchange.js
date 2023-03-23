@@ -846,7 +846,7 @@ function jump(){
           "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==35){
+      else if(index==79){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -903,7 +903,7 @@ function updateTextBlock() {
       "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
-  else if(index==35){
+  else if(index==79){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
