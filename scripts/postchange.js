@@ -914,7 +914,7 @@ function updateTextBlock() {
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<audio controls> <source src=\"../audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
+      "<audio controls> <source src=\"./audio/babbagelawfirm.mp3\" type=\"audio/mpeg\"> Your browser does not support the audio element. </audio> "
     );
   }
   else if(index==11){
@@ -924,14 +924,14 @@ function updateTextBlock() {
       "<audio controls> <source src=\"./audio/runawayrunaway.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
-  else if(index==39){
+  else if(index==41){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
       "<audio controls> <source src=\"./audio/pendrydr13.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
-  else if(index==23){
+  else if(index==24){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
@@ -943,6 +943,41 @@ function updateTextBlock() {
     subject.insertAdjacentHTML(
       "afterbegin",
       "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+    );
+  }
+  else if(index==89){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img11\"></div><div class=\"imgs\" id=\"img26\"></div><div class=\"imgs\" id=\"img3\"></div><div class=\"imgs\" id=\"img32\"><div class=\"imgs\" id=\"img15\"></div><div class=\"imgs\" id=\"img1\"></div><div class=\"imgs\" id=\"img7\"></div></div>"
+    );
+  }
+  else if(index==95){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img28\"></div><div class=\"imgs\" id=\"img2\"></div>"
+    );
+  }
+  else if(index==100){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img22\"></div><div class=\"imgs\" id=\"img14\"></div><div class=\"imgs\" id=\"img33\"></div>"
+    );
+  }
+  else if(index==102){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img5\"></div><div class=\"imgs\" id=\"img24\"></div>"
+    );
+  }
+  else if(index==104){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img6\"></div><div class=\"imgs\" id=\"img17\"></div><div class=\"imgs\" id=\"img10\"></div>"
     );
   }
  
