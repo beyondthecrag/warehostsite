@@ -860,6 +860,13 @@ function jump(){
           "<div class=\"imgs\" id=\"img11\"></div><div class=\"imgs\" id=\"img26\"></div><div class=\"imgs\" id=\"img3\"></div><div class=\"imgs\" id=\"img32\"><div class=\"imgs\" id=\"img15\"></div><div class=\"imgs\" id=\"img1\"></div><div class=\"imgs\" id=\"img7\"></div></div>"
         );
       }
+      else if(index==95){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"imgs\" id=\"img28\"></div><div class=\"imgs\" id=\"img2\"></div>"
+        );
+      }
       else if(index==100){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
