@@ -648,7 +648,7 @@ var textBlocks = [
   },
   //92
   {
-    text: "started season 2 with 99 today. i think i like buffy better now that she’s all freaky and pissed off 99 wants to talk about the bad stuff. i don’t rlly want to anymore. it was a rlly dumb idea to tell anyone and i keep getting frustrated because she wants to fix it and i know she means well but it just seems rlly rlly naïve ",
+    text: "started season 2 with 99 today. i think i like buffy better now that she’s all freaky and pissed off <br> 99 wants to talk about the bad stuff. i don’t rlly want to anymore. it was a rlly dumb idea to tell anyone and i keep getting frustrated because she wants to fix it and i know she means well but it just seems rlly rlly naïve ",
     date: "august 16, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
