@@ -871,21 +871,21 @@ function jump(){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img5\"></div><div class=\"imgs\" id=\"img24\"></div>"
+          "<div class=\"imgs\" id=\"img22\"></div><div class=\"imgs\" id=\"img14\"></div><div class=\"imgs\" id=\"img33\"></div>"
         );
       }
       else if(index==102){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+          "<div class=\"imgs\" id=\"img5\"></div><div class=\"imgs\" id=\"img24\"></div>"
         );
       }
       else if(index==104){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+          "<div class=\"imgs\" id=\"img6\"></div><div class=\"imgs\" id=\"img17\"></div><div class=\"imgs\" id=\"img10\"></div>"
         );
       }
      
