@@ -627,7 +627,7 @@ var textBlocks = [
   },
   //89
   {
-    text: "99 sends trinket electronic music",
+    text: "",
     date: "august 10, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -978,6 +978,13 @@ function updateTextBlock() {
     subject.insertAdjacentHTML(
       "afterbegin",
       "<div class=\"imgs\" id=\"img6\"></div><div class=\"imgs\" id=\"img17\"></div><div class=\"imgs\" id=\"img10\"></div>"
+    );
+  }
+  else if(index==107){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<audio controls> <source src=\"./audio/tse1925.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
  
