@@ -132,8 +132,7 @@ var galBlocks = [
 var index = 0;
 var pageNum = 0;
 // Get references to the HTML elements
-var imgbackBtn = document.getElementById("imgback-btn");
-var imgnextBtn = document.getElementById("imgnext-btn");
+
 var galBlock = document.getElementById("gal-block");
 
 
@@ -144,30 +143,8 @@ function updateGalleryImg() {
 }
 
 // Add event listeners to the back and next buttons
-imgbackBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    document.getElementById("subject").innerHTML = "";
-    updateGalleryImg();
-  }
-  if (index == 0){
-    index=galBlocks.length - 1;
-    document.getElementById("subject").innerHTML = "";
-    updateGalleryImg();
-  }
-});
 
-imgnextBtn.addEventListener("click", function() {
-  if (index < galBlocks.length - 1) {
-    index++;
-    document.getElementById("subject").innerHTML = "";
-    updateGalleryImg();
-  }
-  if (index == galBlocks.length-1){
-    index=0;
-    document.getElementById("subject").innerHTML = "";
-    updateGalleryImg();
-  }
-});
+
+
 
 updateGalleryImg();
