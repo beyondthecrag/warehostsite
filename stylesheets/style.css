@@ -558,3 +558,7 @@ button{
     color: rgb(54, 141, 69);
     cursor: pointer;
 }
+.error{
+    background-image:url(..//img/skylo.gif);
+    color:yellow;
+}
