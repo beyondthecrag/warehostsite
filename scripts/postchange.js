@@ -771,7 +771,7 @@ var textBlocks = [
 
   //108
   {
-    text: "image",
+    text: "",
     date: "october 23, 2019",
     greeting: "luv, trinket",
     img:"img13"
