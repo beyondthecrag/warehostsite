@@ -560,6 +560,7 @@ button{
 }
 .error{
     background-image:url(..//img/skylo.gif);
+    height: 100%;
     color:yellow;
 }
 footer {
