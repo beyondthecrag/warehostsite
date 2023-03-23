@@ -567,7 +567,7 @@ var textBlocks = [
     text: "avoided going online yesterday like type99 was going to jump out of my screen & demand an explanation. i am so bored that i finally cleaned my room. apparently the floor actually extends to all 4 corners.. who knew !!",
     date: "august 3, 2019",
     greeting: "luv, trinket",
-    img:"img13img14img15"
+    img:"imgnone"
   },
   //81
   {
@@ -846,6 +846,13 @@ function jump(){
           "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
+      else if(index==35){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+        );
+      }
      
       
 }
@@ -894,6 +901,13 @@ function updateTextBlock() {
     subject.insertAdjacentHTML(
       "afterbegin",
       "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
+    );
+  }
+  else if(index==35){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
     );
   }
  
