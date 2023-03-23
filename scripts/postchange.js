@@ -3,21 +3,21 @@
 var textBlocks = [
   //1
   {
-    text: "welcome to plague town , where nothing ever happens, and now, no one gets to leave ! :-)(happy birthday to me)",
+    text: "welcome to plague town , where nothing ever happens, and now, no one gets to leave ! :-)<br>(happy birthday to me)",
     date: "march 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //2
   {
-    text: "i'm nobody! who are u? are u nobody 2? set this domain up 2 wks ago now but it turns out i like collecting gif artifacts more than keeping a blog or fixing my janky html so maybe my new online home is just going to be a batshit sticker book. there's never much to report anyway",
+    text: "i'm nobody! who are u? are u nobody 2? <br> set this domain up 2 wks ago now but it turns out i like collecting gif artifacts more than keeping a blog or fixing my janky html so maybe my new online home is just going to be a batshit sticker book. there's never much to report anyway",
     date: "march 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //3
   {
-    text: "hi void another nothing day. ive gone long enough without posting that i think i might b dead so i'm going to start actually using this kind of the same way that prisoners scratch little tally marks into the wall in movies . do they do that in real life ?? rode my bike in a big circle and that's about it except that a***e called but there wasn't rlly anything to talk about. the weather is still gross but i can't stand to be in the house all day anymore",
+    text: "hi void <br> another nothing day. ive gone long enough without posting that i think i might b dead so i'm going to start actually using this kind of the same way that prisoners scratch little tally marks into the wall in movies . do they do that in real life ?? <br> rode my bike in a big circle and that's about it except that a***e called but there wasn't rlly anything to talk about. the weather is still gross but i can't stand to be in the house all day anymore",
     date: "march 31, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -66,7 +66,7 @@ var textBlocks = [
   },
   //10
   {
-    text: "surprised i didn’t get around to a blog post with all the screen time i’ve logged over the past 3 days. i think it’s fucking with my sleep. i’m very tired again <br> anyway i did find an *active* technopagan forum !! it’s called cybercoven.net and it’s been online since 2005 which as far as i can tell is actually kind of late in the timeline of when ppl were really into this stuff, but for whatever reason it seems like the only one ppl still use. there are still archived posts from when it started and new ones almost every day. i’ve kind of fallen down the rabbit hole with it. there are even a handful of still active users who have been there since its inception <br> it’s so cool to me. i like that there are still old school forums even with everything being so social media focused now. no complex marketing algorithms or anything just good old fashioned fighting over niche interests on the computer. it’s like a little time capsule ",
+    text: "surprised i didn’t get around to a blog post with all the screen time i’ve logged over the past 3 days. i think it’s fucking with my sleep. i’m very tired again <br> anyway i did find an *active* technopagan forum !! it’s called cybercoven.net and it’s been online since 2005 which as far as i can tell is actually kind of late in the timeline of when ppl were really into this stuff, but for whatever reason it seems like one of the only ones ppl still use. there are still archived posts from when it started and new ones almost every day. i’ve kind of fallen down the rabbit hole with it. there are even a handful of still active users who have been there since its inception <br> it’s so cool to me. i like that there are still old school forums even with everything being so social media focused now. no complex marketing algorithms or anything just good old fashioned fighting over niche interests on the computer. it’s like a little time capsule ",
     date: "april 13, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -101,7 +101,7 @@ var textBlocks = [
   },
   //15
   {
-    text: "rpickmeup.m4a",
+    text: "pickmeup.m4a",
     date: "april 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -171,7 +171,7 @@ var textBlocks = [
   },
   //25
   {
-    text: "Audio clip: feeling weird.mp3 ",
+    text: "feeling weird.mp3 ",
     date: "may 15, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -213,7 +213,7 @@ var textBlocks = [
   },
   //31
   {
-    text: "listening to my own voice https://plauge.town/SouthViewCir34.m4a",
+    text: "listening to my own voice https://plague.town/SouthViewCir34.m4a",
     date: "may 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -234,7 +234,7 @@ var textBlocks = [
   },
   //34
   {
-    text: "https://plauge.town/burnitout.m4a",
+    text: "https://plague.town/burnitout.m4a",
     date: "may 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -290,7 +290,7 @@ var textBlocks = [
   },
   //41
   {
-    text: "Audio clip: Pendry Dr 13.mp3",
+    text: "Pendry Dr 13.m4a",
     date: "june 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -305,8 +305,8 @@ var textBlocks = [
   //43
   {
     text: "don’t know if it would be worse to suffocate or to die of exposure. still no reply on twitter",
-    date: "march 24, 2019",
-    greeting: "june 15, 2019",
+    date: "june 15, 2019",
+    greeting: "luv, trinket",
     img:"imgnone"
   },
   //44
@@ -395,7 +395,7 @@ var textBlocks = [
   },
   //56
   {
-    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep COME BACK: INSERT CONVERSATION SCREENCAPS u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
+    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep: u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
     img:"img10"
@@ -445,7 +445,7 @@ var textBlocks = [
   },
   //63
   {
-    text: "the thread is all old now but i keep rereading that response. still laughing at the sentence 'we’ve never even seen a chimpanzee at its maximum potential”. i guess we rlly haven’t <br> i feel like maybe i managed to sort of numb my desire to human connection and getting a little bit of it fucked me all the way back up. her profile says she “likes friends”. hard 2 remember but i think i do too? (COME BACK: SCREENSHOT OF PROFILE)",
+    text: "the thread is all old now but i keep rereading that response. still laughing at the sentence 'we’ve never even seen a chimpanzee at its maximum potential”. i guess we rlly haven’t <br> i feel like maybe i managed to sort of numb my desire for human connection and getting a little bit of it fucked me all the way back up. her profile says she “likes friends”. hard 2 remember but i think i do too?",
     date: "july 12, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -522,21 +522,21 @@ var textBlocks = [
   },
   //74
   {
-    text: "type99mg has now watched the first 11 episodes of buffy the vampire slayer and has asked if i would watch the season finale if we watched at the same time on rabb.it. having this much interaction is rlly foreign i said okay though",
+    text: "type99mg has now watched the first 11 episodes of buffy the vampire slayer and has asked if i would watch the season finale if we watched at the same time on rabb.it. having this much interaction is rlly foreign <br> i said okay though",
     date: "july 27, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //75
   {
-    text: "forgot to close my curtains before bed and woke up too early. my bike pump came but for some reason using it feels like a whole ordeal. i’ve been lying on the floor where it’s cooler thought about praying the rosary the normal way because i keep having scary thoughts about a***e and about beepbeepbeepbeepbeep and wondering just how weird things can get. i can never remember how it goes without looking it up online so i have mostly been dangling it over my head like a cat toy <br> i feel very silly for being afraid to watch a tv show i’ve seen like 3 times already but i am. even more nervous to talk to a person. not sure if they will put their mic on",
+    text: "forgot to close my curtains before bed and woke up too early. my bike pump came but for some reason using it feels like a whole ordeal. i’ve been lying on the floor where it’s cooler thought about praying the rosary the normal way because i keep having scary thoughts about a***e and about beepbeepbeepbeepbeep and wondering just how weird things can get. i can never remember how it goes without looking it up online so i have mostly been dangling it over my head like a cat toy <br> i feel very silly for being afraid to watch a tv show i’ve seen like 3 times already but i am. even more nervous to talk to a person. not sure if she will put her mic on",
     date: "july 28, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
   //76
   {
-    text: "she did put her mic on but i did not because 1. she might think i sounded weird or they might be a fed or both and 2. i am not sure i remember how to speak to a person using my voice in the first place. i did however give her my protonmail address so we could talk more without making me so nervous abt leaving a trail i definitely overblew the episode in my head. it’s pretty much as corny and fun as the others. i did get a little weepy at buffy saying “it’s just been a really weird day” after closing the literal hellmouth so im glad type99 couldn’t hear me. felt a lot like the way i’ve been feeling somehow <br> when the master brought forth all the freaky slimy demons i thought a little about beepbeepbeepbeepbeep releasing a bunch of manyeyed angels from the heavens and what it would look like if that happened all at once and then i asked 99 what she does so that i would stop thinking about that she said she makes “music on the computer” and do “various other tasks for other ppl who make music on the computer”. regretted asking bc obviously the question was returned and my stupid brain told me to say that i make music on the phone which is sort of a massive exaggeration. still embarrassed but anyway it was very nice to have someone talk to me. her voice is very nice to listen to ",
+    text: "she did put her mic on but i did not because 1. she might think i sounded weird or she might be a fed or both and 2. i am not sure i remember how to speak to a person using my voice in the first place. i did however give her my protonmail address so we could talk more without making me so nervous abt leaving a trail <br> i definitely overblew the episode in my head. it’s pretty much as corny and fun as the others. i did get a little weepy at buffy saying “it’s just been a really weird day” after closing the literal hellmouth so im glad type99 couldn’t hear me. felt a lot like the way i’ve been feeling somehow <br> when the master brought forth all the freaky slimy demons i thought a little about beepbeepbeepbeepbeep releasing a bunch of manyeyed angels from the heavens and what it would look like if that happened all at once and then i asked 99 what she does so that i would stop thinking about that <br> she said she makes “music on the computer” and do “various other tasks for other ppl who make music on the computer”. regretted asking bc obviously the question was returned and my stupid brain told me to say that i make music on the phone which is sort of a massive exaggeration. still embarrassed but anyway it was very nice to have someone talk to me <br> her voice is very nice to listen to ",
     date: "july 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -571,7 +571,7 @@ var textBlocks = [
   },
   //81
   {
-    text: "do i take the out",
+    text: "do i take the out?",
     date: "august 3, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -607,7 +607,7 @@ var textBlocks = [
   //86
   {
     text: "buffy the vampire slayer.mp3",
-    date: "august 8, 2019",
+    date: "august 7, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
@@ -627,7 +627,7 @@ var textBlocks = [
   },
   //89
   {
-    text: "COME BACK: 99 sends trinket electronic music",
+    text: "99 sends trinket electronic music",
     date: "august 10, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -669,7 +669,7 @@ var textBlocks = [
   },
   //95
   {
-    text: "COME BACK: trinket: hey considering that u now have actual cl*ssif*ed information from me. could u please tell me a little bit more about the AI junk it’s not like i have anyone to tell lol 99: would u get on the phone? ",
+    text: "trinket: hey considering that u now have actual cl*ssif*ed information from me. could u please tell me a little bit more about the AI junk it’s not like i have anyone to tell lol 99: would u get on the phone? ",
     date: "august 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -756,7 +756,7 @@ var textBlocks = [
   //106
   {
     text: "i have been thinking about it and i think i should stop updating soon. maybe it’ll make all this stop. at least it would feel less like my fault",
-    date: "october 1, 2019",
+    date: "october 8, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
@@ -764,7 +764,7 @@ var textBlocks = [
   //107
   {
     text: "tse1925.mp3",
-    date: "august 25, 2019",
+    date: "october 22, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
@@ -772,7 +772,7 @@ var textBlocks = [
   //108
   {
     text: "image",
-    date: "august 25, 2019",
+    date: "october 23, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
   },
@@ -810,7 +810,7 @@ function jump(){
       greetingBlockEl.textContent = textBlocks[index].greeting;
       pageNum.textContent = index+1;
       imgBlock.id = textBlocks[index].img;
-      if(index==18){
+      if(index==19){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -832,14 +832,14 @@ function jump(){
           "<audio controls> <source src=\"./audio/runawayrunaway.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==39){
+      else if(index==41){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
           "<audio controls> <source src=\"./audio/pendrydr13.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==23){
+      else if(index==24){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
