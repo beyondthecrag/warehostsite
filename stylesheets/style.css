@@ -560,7 +560,7 @@ button{
 }
 .error{
     background-image:url(..//img/skylo.gif);
-    height: 800px;
+    height: 1000px;
     font-size: 40px;
     color:yellow;
 }
