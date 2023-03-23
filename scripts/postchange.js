@@ -739,7 +739,7 @@ var textBlocks = [
 
   //104
   {
-    text: "was too scared to check my twitter account until now. these are from the 21st i can spiral now right? ",
+    text: "was too scared to check my twitter account until now. these are from the 21st <br> i can spiral now right? ",
     date: "september 28, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
