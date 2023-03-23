@@ -254,10 +254,11 @@ button{
 }
 #img3{
     height:350px;
-    content:url(../impimg/image3.png)
+    content:url(../impimg/image3.png);
+    width:483px;
 }
 #img4{
-    height:350px;
+    height:221px;
     content:url(../impimg/image4.png)
 }
 #img5{
@@ -265,7 +266,7 @@ button{
     content:url(../impimg/image5.png)
 }
 #img6{
-    height:350px;
+    height:64px;
     content:url(../impimg/image6.jpg)
 }
 #img7{
@@ -281,23 +282,24 @@ button{
     content:url(../impimg/image9.png)
 }
 #img10{
-    height:350px;
+    height:64px;
     content:url(../impimg/image10.jpg)
 }
 #img11{
-    height:350px;
+    height:208px;
+    width:483px;
     content:url(../impimg/image11.png)
 }
 #img12{
-    height:350px;
+    height:181px;
     content:url(../impimg/image12.png)
 }
 #img13{
-    height:384px;
+    height:190px;
     background-image:url(../impimg/image13.png)!important
 }
 #img14{
-    height:350px;
+    height:64px;
     content:url(../impimg/image14.jpg)
 }
 #img15{
@@ -309,7 +311,7 @@ button{
     content:url(../impimg/image16.jpg)
 }
 #img17{
-    height:350px;
+    height:64px;
     content:url(../impimg/image17.jpg)
 }
 #img18{
@@ -329,28 +331,31 @@ button{
     content:url(../impimg/image21.png)
 }
 #img22{
-    height:350px;
+    height:64px;
     content:url(../impimg/image22.jpg)
 }
 #img23{
-    height:350px;
-    content:url(../impimg/image23.png)
+    height: 309px;
+    content: url(../impimg/image23.png);
+    width: 815px;
 }
 #img24{
     height:350px;
     content:url(../impimg/image24.png)
 }
 #img25{
-    height:350px;
+    height:492px;
     content:url(../impimg/image25.png)
 }
 #img26{
     height:350px;
+    width:483px;
     content:url(../impimg/image26.png)
 }
 #img27{
-    height:350px;
-    content:url(../impimg/image27.png)
+    height: 170px;
+    content: url(../impimg/image27.png);
+    width: 565px;
 }
 #img28{
     height:350px;
@@ -361,7 +366,7 @@ button{
     content:url(../impimg/image29.jpg)
 }
 #img30{
-    height:350px;
+    height:634px;
     content:url(../impimg/image30.png)
 }
 #img31{
@@ -370,10 +375,11 @@ button{
 }
 #img32{
     height:350px;
+    width:483px;
     content:url(../impimg/image32.png)
 }
 #img33{
-    height:350px;
+    height:64px;
     content:url(../impimg/image33.png)
 }
 #img34{
@@ -381,15 +387,16 @@ button{
     content:url(../impimg/image34.png)
 }
 #img35{
-    height:350px;
+    height:243px;
     content:url(../impimg/image35.jpg)
 }
 #img36{
-    height:350px;
-    content:url(../impimg/image36.jpg)
+    height: 170px;
+    content:url(../impimg/image36.png);
+    width:565px;
 }
 #img37{
-    height:350px;
+    height:1283px;
     content:url(../impimg/image37.png)
 }
 #img38{

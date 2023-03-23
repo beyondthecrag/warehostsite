@@ -469,7 +469,7 @@ var textBlocks = [
     text: "fuck it i sent it lol its 2am <br> going to try to watch a buffy episode to distract myself from how uncool i sounded. 1x10 is just another silly one iirc",
     date: "july 16, 2019",
     greeting: "luv, trinket",
-    img:"img10"
+    img:"imgnone"
   },
   //67
   {
