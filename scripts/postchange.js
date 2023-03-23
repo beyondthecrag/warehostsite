@@ -871,7 +871,7 @@ function jump(){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+          "<div class=\"imgs\" id=\"img5\"></div><div class=\"imgs\" id=\"img24\"></div>"
         );
       }
       else if(index==102){
