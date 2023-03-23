@@ -562,3 +562,24 @@ button{
     background-image:url(..//img/skylo.gif);
     color:yellow;
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    bottom: 0px;
+    position: relative;
+    display: inline;
+  }
+footer a:link{
+    color:rgb(136, 136, 136);
+}
+footer a:visited{
+    color:rgb(112, 112, 112);
+}
+footer a:hover{
+    color:rgb(85, 85, 85);
+}
+  .welcome-wrapper{
+    height:90vh;
+  }
