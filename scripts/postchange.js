@@ -90,7 +90,7 @@ var textBlocks = [
     text: "getting rlly into this one guy’s posts on cybercoven. his name is john, i figure he must be 40something (he posts about college in the 90s)  and his screen name is literally just “beepbeepbeepbeepbeep” lol. he’s the only user i’ve seen who reliably posts every single day and has been talking a lot about “scrolling-induced gnosis” which seems like a pretty optimistic frame for “screen damage” <br> this is the part of his most recent post (they’re always rlly long run-on sentences) that got my attention today: IMG not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that <br> the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too? ",
     date: "april 18, 2019",
     greeting: "luv, trinket",
-    img: "img1"
+    img: "img16"
   },
   //14
   {
@@ -258,7 +258,7 @@ var textBlocks = [
     text: "logged onto twitter again and got a rlly weird msg from an account with no followers or tweets this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird",
     date: "june 4, 2019",
     greeting: "luv, trinket",
-    img:"img2"
+    img:"img31"
   },
   //37
   {
@@ -272,7 +272,7 @@ var textBlocks = [
     text: "finally messaged the account back i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game ",
     date: "june 7, 2019",
     greeting: "luv, trinket",
-    img:"img3"
+    img:"img9"
   },
   //39
   {
@@ -321,7 +321,7 @@ var textBlocks = [
     text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to bots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script ",
     date: "june 18, 2019",
     greeting: "luv, trinket",
-    img:"img4"
+    img:"img25"
   },
   //46
   {
@@ -377,7 +377,7 @@ var textBlocks = [
     text: "if AI is the future just get it over with and infect me now ",
     date: "july 1, 2019",
     greeting: "luv, trinket",
-    img:"img5"
+    img:"img19"
   },
   //54
   {
@@ -398,7 +398,7 @@ var textBlocks = [
     text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep: u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
-    img:"img10"
+    img:"img30"
   },
   //57
   {
@@ -412,7 +412,7 @@ var textBlocks = [
     text: "officially overcame lurker status on cybercoven. beepbeepbeepbeepbeep decided 2 share his entire life story on a pretty lighthearted post and curiosity got the best of me. had to make an account and everything so i picked a rlly dumb user lol. spent longer on the jenny edit than i’d like 2 admit. thread here: i feel a little embarrassed because obviously i have no clue what i’m talking abt here but i think that’s why i’m frustrated in the first place. i sound like such a downer. i guess i feel like one too. i do want to get it i think ",
     date: "july 7, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img37"
   },
   //59
   
@@ -420,7 +420,7 @@ var textBlocks = [
     text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my posti have 2 say it is very nice to be called ~refreshing~ after feeling so stale for a very long time kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do ",
     date: "july 7, 2019 ",
     greeting: "luv, trinket",
-    img:"img6"
+    img:"img20"
   },
   //60
   {
@@ -448,7 +448,7 @@ var textBlocks = [
     text: "the thread is all old now but i keep rereading that response. still laughing at the sentence 'we’ve never even seen a chimpanzee at its maximum potential”. i guess we rlly haven’t <br> i feel like maybe i managed to sort of numb my desire for human connection and getting a little bit of it fucked me all the way back up. her profile says she “likes friends”. hard 2 remember but i think i do too?",
     date: "july 12, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img9"
   },
   //64
   {
@@ -459,17 +459,17 @@ var textBlocks = [
   },
   //65
   {
-    text: "random msg but u said u like friends :-) u responded to my question abt AI around a week ago. thanks 4 being so nice abt my ignorance lol. very curious abt these friends and their new AI projects tbh. at any liberty to share? anyway mostly just wanted to say hi drafted a pm to type99mg and am currently deliberating over sending it. why is being a person so hard :-( ",
+    text: "drafted a pm to type99mg and am currently deliberating over sending it. why is being a person so hard :-( ",
     date: "july 15, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img4"
   },
   //66
   {
     text: "fuck it i sent it lol its 2am <br> going to try to watch a buffy episode to distract myself from how uncool i sounded. 1x10 is just another silly one iirc",
     date: "july 16, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img10"
   },
   //67
   {
@@ -553,35 +553,35 @@ var textBlocks = [
     text: "inside day today. checked twitter. don’t think i expected to see anything but it’s hard not to hope a little <br> this is kind of weird though considering i havent tweeted anything since march. i guess bots r taking over like they did on tumblr?",
     date: "july 31, 2019",
     greeting: "luv, trinket",
-    img:"img7"
+    img:"img35"
   },
   //79
   {
     text: "fuck shit fuck <br> i am rlly bad at dodging questions. to b fair i havent been asked any in such a long time. might log off forever now lol :-))",
     date: "august 1, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img11img12"
   },
   //80
   {
     text: "avoided going online yesterday like type99 was going to jump out of my screen & demand an explanation. i am so bored that i finally cleaned my room. apparently the floor actually extends to all 4 corners.. who knew !!",
     date: "august 3, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img13img14img15"
   },
   //81
   {
     text: "do i take the out?",
     date: "august 3, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img12"
   },
   //82
   {
     text: "",
     date: "august 4, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img38"
   },
   //83
   {
@@ -623,7 +623,7 @@ var textBlocks = [
     text: "rlly rlly rlly cool",
     date: "august 9, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img21"
   },
   //89
   {
@@ -644,7 +644,7 @@ var textBlocks = [
     text: "summer always makes me hazy and weird and this whole year has been hazy and weird so im very very hazy and very very weird. i went for a rlly long bike ride today with a rlly silly idea in my head <br> stopped a bunch of times to collect a lot of pretty weeds/wildflowers/whatever and i rode to the highway offramp. they do not have a lot of attendants working the turnpike. it was someone id seen before. i bet the shifts are long. i bet hardly anyone comes through. i’m surprised i don’t see ppl screaming at her. i used to see stuff like that all the time at like. mcdonalds lol. i bet they do though. i bet i just miss it. i looked at her for a very long time. she looked at her phone a lot and then she looked at me and i think i was starting to freak her out so i looked at the limp little bouquet hanging off my handlebar and remembered that i have always been too sentimental for my own good and i rode around a while with a lot of buzzing in my head and i went home. it’s sitting in a little green plastic cup next to my bed. i think it’s mostly dead ",
     date: "august 14, 2019",
     greeting: "luv, trinket",
-    img:"img9"
+    img:"img39"
   },
   //92
   {
@@ -693,7 +693,7 @@ var textBlocks = [
     text: "life only gets weirder. the towns taking the lack of traffic as a chance to finally fix the road near the highway. can hear the noise/very faintly smell hot dug up asphalt from here. when i go outside the air is so full of smog and ragweed and dandelion seeds that it’s easier to breathe in here which is saying something. been checking my dms out of habit more than hope at this point and twitter still clearly hasn’t fixed their bot problem ",
     date: "september 5, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img18"
   },
 
   //99
@@ -734,7 +734,7 @@ var textBlocks = [
     text: "mods updated. 99 said no one tried to contact her. more questions than answers. i want to log off and forget about all of it but i can’t stop looking. can’t even go outside with how awful the air is. september’s almost over and it still feels like stepping out into an oven",
     date: "september 21, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img34"
   },
 
   //104
@@ -774,7 +774,7 @@ var textBlocks = [
     text: "image",
     date: "october 23, 2019",
     greeting: "luv, trinket",
-    img:"imgnone"
+    img:"img13"
   },
 
 
