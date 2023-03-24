@@ -543,6 +543,17 @@ button{
     height: 1000px;
     padding:100px;
 }
+@media only screen and (max-width:900px){
+    .modal-content {
+        background-color: black;
+        margin: auto;
+        display: block;
+        max-width: 85%;
+        height: 1000px;
+        padding-right: 197px;
+        padding-top: 150px;
+    }
+}
 
 .modal-content img {
     width: 70%;
