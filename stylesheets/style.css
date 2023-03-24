@@ -88,7 +88,7 @@ body{
     padding:3px;
     text-align:center;
     height:auto;
-    width:500px;
+    width:600px;
     justify-content:center;
     word-wrap:break-word;
     margin-bottom:70px
@@ -240,9 +240,18 @@ button{
 .imgs{
     display:flex;
     justify-content:center;
-    width:450px;
+    width:550px;
     background-size:cover;
     margin:auto
+}
+@media only screen and (max-width:900px){
+    .imgs{
+        display:flex;
+        justify-content:center;
+        width:450px;
+        background-size:cover;
+        margin:auto
+    }
 }
 #img1{
     height:384px;
