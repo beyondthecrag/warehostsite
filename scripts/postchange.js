@@ -810,7 +810,7 @@ function jump(){
       greetingBlockEl.textContent = textBlocks[index].greeting;
       pageNum.textContent = index+1;
       imgBlock.id = textBlocks[index].img;
-      if(index==18){
+      if(index==19){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -993,7 +993,7 @@ function updateTextBlock() {
   dateBlockEl.textContent = textBlocks[index].date;
   greetingBlockEl.textContent = textBlocks[index].greeting;
   imgBlock.id  = textBlocks[index].img;
-  if(index==18){
+  if(index==19){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
