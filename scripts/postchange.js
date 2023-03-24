@@ -448,7 +448,7 @@ var textBlocks = [
     text: "the thread is all old now but i keep rereading that response. still laughing at the sentence 'we’ve never even seen a chimpanzee at its maximum potential”. i guess we rlly haven’t <br> i feel like maybe i managed to sort of numb my desire for human connection and getting a little bit of it fucked me all the way back up. her profile says she “likes friends”. hard 2 remember but i think i do too?",
     date: "july 12, 2019",
     greeting: "luv, trinket",
-    img:"img9"
+    img:"img8"
   },
   //64
   {
