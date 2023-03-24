@@ -902,7 +902,7 @@ function jump(){
           "<div class=\"blog-text\"> very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script </div>"
         );
       }
-      else if(index==55){
+      else if(index==56){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -1085,7 +1085,7 @@ function updateTextBlock() {
       "<div class=\"blog-text\"> very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script </div>"
     );
   }
-  else if(index==55){
+  else if(index==56){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
