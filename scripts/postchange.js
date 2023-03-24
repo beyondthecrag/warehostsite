@@ -963,7 +963,7 @@ function updateTextBlock() {
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+      "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div> <div class=\"blog-text\"> i am rlly bad at dodging questions. to b fair i havent been asked any in such a long time. might log off forever now lol :-))</div>"
     );
   }
   else if(index==89){

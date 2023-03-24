@@ -561,8 +561,10 @@ button{
 .error{
     background-image:url(..//img/skylo.gif);
     height: 1000px;
-    font-size: 40px;
-    color:yellow;
+    font-size: 15px;
+    color:rgb(170, 56, 28);
+    text-align: center;
+    background-color: lightblue;
 }
 footer {
     text-align: center;
