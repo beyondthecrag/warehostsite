@@ -308,7 +308,8 @@ button{
     background-image:url(../impimg/image13.png)!important
 }
 #img14{
-    height:64px;
+    height:115px;
+    width:500px;
     content:url(../impimg/image14.jpg)
 }
 #img15{
@@ -340,7 +341,8 @@ button{
     content:url(../impimg/image21.png)
 }
 #img22{
-    height:64px;
+    height:115px;
+    width:500px;
     content:url(../impimg/image22.jpg)
 }
 #img23{
@@ -384,11 +386,11 @@ button{
 }
 #img32{
     height:350px;
-    width:483px;
+    width:500px;
     content:url(../impimg/image32.png)
 }
 #img33{
-    height:64px;
+    height:115px;
     content:url(../impimg/image33.png)
 }
 #img34{
