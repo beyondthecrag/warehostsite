@@ -669,7 +669,7 @@ var textBlocks = [
   },
   //95
   {
-    text: "trinket: hey considering that u now have actual cl*ssif*ed information from me. could u please tell me a little bit more about the AI junk it’s not like i have anyone to tell lol 99: would u get on the phone? ",
+    text: "",
     date: "august 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
