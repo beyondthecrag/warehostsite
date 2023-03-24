@@ -587,3 +587,9 @@ footer a:hover{
   .welcome-wrapper{
     height:90vh;
   }
+  audio {
+    filter: brightness(300%) grayscale(1);
+    background-color: rgb(255, 255, 255) !important;
+box-shadow: inset -2px -2px #0a0a0a,inset 1px 1px #fff,inset -3px -3px gray,inset 3px 3px #dfdfdf;
+}
+
