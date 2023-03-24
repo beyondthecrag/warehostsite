@@ -87,7 +87,7 @@ var textBlocks = [
   },
   //13
   {
-    text: "getting rlly into this one guy’s posts on cybercoven. his name is john, i figure he must be 40something (he posts about college in the 90s)  and his screen name is literally just “beepbeepbeepbeepbeep” lol. he’s the only user i’ve seen who reliably posts every single day and has been talking a lot about “scrolling-induced gnosis” which seems like a pretty optimistic frame for “screen damage” <br> this is the part of his most recent post (they’re always rlly long run-on sentences) that got my attention today: IMG not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that <br> the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too? ",
+    text: "getting rlly into this one guy’s posts on cybercoven. his name is john, i figure he must be 40something (he posts about college in the 90s)  and his screen name is literally just “beepbeepbeepbeepbeep” lol. he’s the only user i’ve seen who reliably posts every single day and has been talking a lot about “scrolling-induced gnosis” which seems like a pretty optimistic frame for “screen damage” <br> this is the part of his most recent post (they’re always rlly long run-on sentences) that got my attention today: ",
     date: "april 18, 2019",
     greeting: "luv, trinket",
     img: "img16"
@@ -255,7 +255,7 @@ var textBlocks = [
   },
   //36
   {
-    text: "logged onto twitter again and got a rlly weird msg from an account with no followers or tweets this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird",
+    text: "logged onto twitter again and got a rlly weird msg from an account with no followers or tweets ",
     date: "june 4, 2019",
     greeting: "luv, trinket",
     img:"img31"
@@ -269,7 +269,7 @@ var textBlocks = [
   },
   //38
   {
-    text: "finally messaged the account back i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game ",
+    text: "finally messaged the account back ",
     date: "june 7, 2019",
     greeting: "luv, trinket",
     img:"img9"
@@ -318,7 +318,7 @@ var textBlocks = [
   },
   //45
   {
-    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to bots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script ",
+    text: "got bored and tried dig1fae’s bot. all the voluntary shut-ins seem to like talking to bots so i figured i might as well try it too <br> first question wasn’t about the future but it still “worked” as much as i could say it works at all: ",
     date: "june 18, 2019",
     greeting: "luv, trinket",
     img:"img25"
@@ -395,7 +395,7 @@ var textBlocks = [
   },
   //56
   {
-    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep: u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite ",
+    text: "noticing myself trying kind of hard to care about the ai stuff. probably because it’s the only thing i’ve watched other human beings get excited about for a while now. i think i was too mean about pendulla considering she was probably made by a 19 yr old tumblr witch in like 5 hrs lol googled “chatbots 2019” to see what the big guys are up to. didnt rlly find anything interesting but. funny coincidence: i found 1 published by a mattress company that only works from 11pm-3am for ppl who can’t sleep: ",
     date: "july 4, 2019",
     greeting: "luv, trinket",
     img:"img30"
@@ -409,7 +409,7 @@ var textBlocks = [
   },
   //58
   {
-    text: "officially overcame lurker status on cybercoven. beepbeepbeepbeepbeep decided 2 share his entire life story on a pretty lighthearted post and curiosity got the best of me. had to make an account and everything so i picked a rlly dumb user lol. spent longer on the jenny edit than i’d like 2 admit. thread here: i feel a little embarrassed because obviously i have no clue what i’m talking abt here but i think that’s why i’m frustrated in the first place. i sound like such a downer. i guess i feel like one too. i do want to get it i think ",
+    text: "officially overcame lurker status on cybercoven. beepbeepbeepbeepbeep decided 2 share his entire life story on a pretty lighthearted post and curiosity got the best of me. had to make an account and everything so i picked a rlly dumb user lol. spent longer on the jenny edit than i’d like 2 admit. thread here: ",
     date: "july 7, 2019",
     greeting: "luv, trinket",
     img:"img37"
@@ -417,7 +417,7 @@ var textBlocks = [
   //59
   
   {
-    text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my posti have 2 say it is very nice to be called ~refreshing~ after feeling so stale for a very long time kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do ",
+    text: "!!!!!! someone has actually interacted w me on the internet via *not* a scary mysterious message it wasn’t john but i already got a response to my post ",
     date: "july 7, 2019 ",
     greeting: "luv, trinket",
     img:"img20"
@@ -723,7 +723,7 @@ var textBlocks = [
 
   //102
   {
-    text: "beepbeepbeepbeepbeep is finally back. very back. opened cybercoven and it looked like this:tried to read them but everything except for “Updates to Sabaoth engine” have had the body text deleted with the classic [USER WAS BANNED FOR THIS POST]. kind of hard to believe. it was always weird to me that john wasn’t a mod himself. here’s what i could actually read:what’s even more confusing is that when i asked 99 she said she had been working that night and didnt see it go down <br> the “update” if anything seems tame for him. i can’t explain it but i feel like i need to know what else he said. it’s not curiosity. it feels like something bad is going to happen if i don’t find out. i get that he is just touched in the head but i am feeling toucheder and toucheder myself :-( ",
+    text: "beepbeepbeepbeepbeep is finally back. very back. opened cybercoven and it looked like this:",
     date: "september 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -810,7 +810,7 @@ function jump(){
       greetingBlockEl.textContent = textBlocks[index].greeting;
       pageNum.textContent = index+1;
       imgBlock.id = textBlocks[index].img;
-      if(index==19){
+      if(index==18){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
@@ -846,11 +846,60 @@ function jump(){
           "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
+      else if(index==12){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div> <div class=\"blog-text\">not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too?</div>"
+        );
+      }
       else if(index==79){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div>"
+          "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div> <div class=\"blog-text\"> i am rlly bad at dodging questions. to b fair i havent been asked any in such a long time. might log off forever now lol :-))</div>"
+        );
+      }
+      else if(index==36){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"blog-text\"> this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird</div>"
+        );
+      }
+      else if(index==38){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"blog-text\"> i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game </div>"
+        );
+      }
+      else if(index==45){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"blog-text\"> very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script </div>"
+        );
+      }
+      else if(index==55){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"blog-text\"> u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite </div>"
+        );
+      }
+      else if(index==58){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"blog-text\"> i feel a little embarrassed because obviously i have no clue what i’m talking abt here but i think that’s why i’m frustrated in the first place. i sound like such a downer. i guess i feel like one too. i do want to get it i think</div>"
+        );
+      }
+      else if(index==59){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<div class=\"blog-text\"> i have 2 say it is very nice to be called ~refreshing~ after feeling so stale for a very long time kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do</div>"
         );
       }
       else if(index==89){
@@ -878,7 +927,7 @@ function jump(){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img5\"></div><div class=\"imgs\" id=\"img24\"></div>"
+          "<div class=\"imgs\" id=\"img5\"></div><div class=\"blog-text\">tried to read them but everything except for “Updates to Sabaoth engine” have had the body text deleted with the classic [USER WAS BANNED FOR THIS POST]. kind of hard to believe. it was always weird to me that john wasn’t a mod himself. here’s what i could actually read:what’s even more confusing is that when i asked 99 she said she had been working that night and didnt see it go down <br> the “update” if anything seems tame for him. i can’t explain it but i feel like i need to know what else he said. it’s not curiosity. it feels like something bad is going to happen if i don’t find out. i get that he is just touched in the head but i am feeling toucheder and toucheder myself :-( </div><div class=\"imgs\" id=\"img24\"></div><div class=\"blog-text\">tried to read them but everything except for “Updates to Sabaoth engine” have had the body text deleted with the classic [USER WAS BANNED FOR THIS POST]. kind of hard to believe. it was always weird to me that john wasn’t a mod himself. here’s what i could actually read:what’s even more confusing is that when i asked 99 she said she had been working that night and didnt see it go down <br> the “update” if anything seems tame for him. i can’t explain it but i feel like i need to know what else he said. it’s not curiosity. it feels like something bad is going to happen if i don’t find out. i get that he is just touched in the head but i am feeling toucheder and toucheder myself :-( </div>"
         );
       }
       else if(index==104){
@@ -959,11 +1008,60 @@ function updateTextBlock() {
       "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
     );
   }
+  else if(index==12){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div> <div class=\"blog-text\">not sure exactly why but i've been thinking about it so much. i've been into angels since i was little and it's sort of sweet to imagine some middle aged man reading off their names until he floats into a trance. his sincerity inspired me..and the idea that “making more angels, making more God” would be a worthwhile goal.. i wouldn't mind feeling some version of that the thing that struck me the most though is that i think he thinks he can literally create more angels (more gods? way out of my catholic depth but whatever) by naming them. by putting new words on the internet. that's what i keep thinking about because it kind of reminds me of coming here. i’m very afraid of not existing online. so john - does it work the other way? if u wipe my name from every webpage in existence, do i disappear too?</div>"
+    );
+  }
   else if(index==79){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
       "<div class=\"imgs\" id=\"img36\"></div><div class=\"imgs\" id=\"img23\"></div><div class=\"imgs\" id=\"img27\"></div> <div class=\"blog-text\"> i am rlly bad at dodging questions. to b fair i havent been asked any in such a long time. might log off forever now lol :-))</div>"
+    );
+  }
+  else if(index==36){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"blog-text\"> this was 3 wks ago. it reads so vague but i feel like i know exactly who it is and what it means. but it could just be someone messing w me too? either way i’ve gone back and censored her name on all the posts that have it. might delete them. not sure what to do or say. too weird</div>"
+    );
+  }
+  else if(index==38){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"blog-text\"> i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game </div>"
+    );
+  }
+  else if(index==45){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"blog-text\"> very canned imo.but i guess pendulums only say yes and no so i can kind of see the functionality. got bored pretty quick <br> it giving me a date was weird though, especially such a close one. seemed off script </div>"
+    );
+  }
+  else if(index==55){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"blog-text\"> u would think the multimillion dollar company’s advertising budget would cover some more exciting dialogue options but i’m still not impressed <br> i think i will stay the kind of hikiko who talks to nobody instead of the kind that talks to robots all nite </div>"
+    );
+  }
+  else if(index==58){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"blog-text\"> i feel a little embarrassed because obviously i have no clue what i’m talking abt here but i think that’s why i’m frustrated in the first place. i sound like such a downer. i guess i feel like one too. i do want to get it i think</div>"
+    );
+  }
+  else if(index==59){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<div class=\"blog-text\"> i have 2 say it is very nice to be called ~refreshing~ after feeling so stale for a very long time kind of want to ask what they mean by the last part. everyone on this forum is always vaguely alluding to things that i always suspect don’t actually mean anything but this person seems…weirdly normal? maybe i should keep posting. don’t have anything else 2 do</div>"
     );
   }
   else if(index==89){
@@ -991,7 +1089,7 @@ function updateTextBlock() {
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<div class=\"imgs\" id=\"img5\"></div><div class=\"imgs\" id=\"img24\"></div>"
+      "<div class=\"imgs\" id=\"img5\"></div><div class=\"blog-text\">tried to read them but everything except for “Updates to Sabaoth engine” have had the body text deleted with the classic [USER WAS BANNED FOR THIS POST]. kind of hard to believe. it was always weird to me that john wasn’t a mod himself. here’s what i could actually read:what’s even more confusing is that when i asked 99 she said she had been working that night and didnt see it go down <br> the “update” if anything seems tame for him. i can’t explain it but i feel like i need to know what else he said. it’s not curiosity. it feels like something bad is going to happen if i don’t find out. i get that he is just touched in the head but i am feeling toucheder and toucheder myself :-( </div><div class=\"imgs\" id=\"img24\"></div><div class=\"blog-text\">tried to read them but everything except for “Updates to Sabaoth engine” have had the body text deleted with the classic [USER WAS BANNED FOR THIS POST]. kind of hard to believe. it was always weird to me that john wasn’t a mod himself. here’s what i could actually read:what’s even more confusing is that when i asked 99 she said she had been working that night and didnt see it go down <br> the “update” if anything seems tame for him. i can’t explain it but i feel like i need to know what else he said. it’s not curiosity. it feels like something bad is going to happen if i don’t find out. i get that he is just touched in the head but i am feeling toucheder and toucheder myself :-( </div>"
     );
   }
   else if(index==104){
