@@ -35,6 +35,11 @@ body{
     border:#fff solid 1px!important;
     overflow-y:auto
 }
+@media only screen and (max-width:1000px){
+    .nav-boxes{
+        display: none;
+    }
+}
 .side-title{
     width:100%!important;
     height:100px;
