@@ -101,7 +101,7 @@ var textBlocks = [
   },
   //15
   {
-    text: "pickmeup.m4a",
+    text: "",
     date: "april 21, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -213,7 +213,7 @@ var textBlocks = [
   },
   //31
   {
-    text: "listening to my own voice https://plague.town/SouthViewCir34.m4a",
+    text: "listening to my own voice https://plague.town/SouthViewCir34_m4a",
     date: "may 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -234,7 +234,7 @@ var textBlocks = [
   },
   //34
   {
-    text: "https://plague.town/burnitout.m4a",
+    text: "https://plague.town/burnitout_m4a",
     date: "may 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -846,6 +846,27 @@ function jump(){
           "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
+      else if(index==14){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<a href=\"../seized\">pickmeup.m4a</a>"
+        );
+      }
+      else if(index==30){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<a href=\"../seized\">South View Cir 34.m4a</a>"
+        );
+      }
+      else if(index==33){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<a href=\"../seized\">burnitout.m4a</a>"
+        );
+      }
       else if(index==12){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
@@ -1034,6 +1055,27 @@ function updateTextBlock() {
     subject.insertAdjacentHTML(
       "afterbegin",
       "<div class=\"blog-text\"> i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game </div>"
+    );
+  }
+  else if(index==14){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<a href=\"../seized\">pickmeup.m4a</a>"
+    );
+  }
+  else if(index==30){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<a href=\"../seized\">South View Cir 34.m4a</a>"
+    );
+  }
+  else if(index==33){
+    const subject = document.querySelector("#subject");
+    subject.insertAdjacentHTML(
+      "afterbegin",
+      "<a href=\"../seized\">burnitout.m4a</a>"
     );
   }
   else if(index==45){
