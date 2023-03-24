@@ -878,21 +878,21 @@ function jump(){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<a href=\"../seized\">pickmeup.m4a</a>"
+          "<a href=\"../404\">pickmeup.m4a</a>"
         );
       }
       else if(index==30){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<a href=\"../seized\">South View Cir 34.m4a</a>"
+          "<a href=\"../404\">South View Cir 34.m4a</a>"
         );
       }
       else if(index==33){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<a href=\"../seized\">burnitout.m4a</a>"
+          "<a href=\"../404\">burnitout.m4a</a>"
         );
       }
       else if(index==45){
@@ -1063,21 +1063,21 @@ function updateTextBlock() {
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<a href=\"../seized\">pickmeup.m4a</a>"
+      "<a href=\"../404\">pickmeup.m4a</a>"
     );
   }
   else if(index==30){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<a href=\"../seized\">South View Cir 34.m4a</a>"
+      "<a href=\"../404\">South View Cir 34.m4a</a>"
     );
   }
   else if(index==33){
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<a href=\"../seized\">burnitout.m4a</a>"
+      "<a href=\"../404\">burnitout.m4a</a>"
     );
   }
   else if(index==45){
