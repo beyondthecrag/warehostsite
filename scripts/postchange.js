@@ -846,27 +846,6 @@ function jump(){
           "<audio controls> <source src=\"./audio/feelingweird.mp3\" type=\"audio/mp3\"> Your browser does not support the audio element. </audio> "
         );
       }
-      else if(index==14){
-        const subject = document.querySelector("#subject");
-        subject.insertAdjacentHTML(
-          "afterbegin",
-          "<a href=\"../seized\">pickmeup.m4a</a>"
-        );
-      }
-      else if(index==30){
-        const subject = document.querySelector("#subject");
-        subject.insertAdjacentHTML(
-          "afterbegin",
-          "<a href=\"../seized\">South View Cir 34.m4a</a>"
-        );
-      }
-      else if(index==33){
-        const subject = document.querySelector("#subject");
-        subject.insertAdjacentHTML(
-          "afterbegin",
-          "<a href=\"../seized\">burnitout.m4a</a>"
-        );
-      }
       else if(index==12){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
@@ -893,6 +872,27 @@ function jump(){
         subject.insertAdjacentHTML(
           "afterbegin",
           "<div class=\"blog-text\"> i wouldnt say im 100% convinced but it seems like her and if im right i wouldnt want her having to deal w me being suspicious. it just doesnt rly feel real. typing it out felt like acting or playing a game </div>"
+        );
+      }
+      else if(index==14){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<a href=\"../seized\">pickmeup.m4a</a>"
+        );
+      }
+      else if(index==30){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<a href=\"../seized\">South View Cir 34.m4a</a>"
+        );
+      }
+      else if(index==33){
+        const subject = document.querySelector("#subject");
+        subject.insertAdjacentHTML(
+          "afterbegin",
+          "<a href=\"../seized\">burnitout.m4a</a>"
         );
       }
       else if(index==45){
@@ -927,7 +927,7 @@ function jump(){
         const subject = document.querySelector("#subject");
         subject.insertAdjacentHTML(
           "afterbegin",
-          "<div class=\"imgs\" id=\"img11\"></div><div class=\"imgs\" id=\"img26\"></div><div class=\"imgs\" id=\"img3\"></div><div class=\"imgs\" id=\"img32\"><div class=\"imgs\" id=\"img15\"></div><div class=\"imgs\" id=\"img1\"></div><div class=\"imgs\" id=\"img7\"></div></div>"
+          "<div class=\"imgs\" id=\"img11\"></div><div class=\"imgs\" id=\"img26\"></div><div class=\"imgs\" id=\"img3\"></div><div class=\"imgs\" id=\"img32\"></div><div class=\"imgs\" id=\"img15\"></div><div class=\"imgs\" id=\"img1\"></div><div class=\"imgs\" id=\"img7\"></div>"
         );
       }
       else if(index==95){
@@ -980,8 +980,10 @@ function jump(){
         );
       }
      
+     
       
-}
+      
+    }
 
 
 // Function to update the text block with the current index
@@ -1110,7 +1112,7 @@ function updateTextBlock() {
     const subject = document.querySelector("#subject");
     subject.insertAdjacentHTML(
       "afterbegin",
-      "<div class=\"imgs\" id=\"img11\"></div><div class=\"imgs\" id=\"img26\"></div><div class=\"imgs\" id=\"img3\"></div><div class=\"imgs\" id=\"img32\"><div class=\"imgs\" id=\"img15\"></div><div class=\"imgs\" id=\"img1\"></div><div class=\"imgs\" id=\"img7\"></div></div>"
+      "<div class=\"imgs\" id=\"img11\"></div><div class=\"imgs\" id=\"img26\"></div><div class=\"imgs\" id=\"img3\"></div><div class=\"imgs\" id=\"img32\"></div><div class=\"imgs\" id=\"img15\"></div><div class=\"imgs\" id=\"img1\"></div><div class=\"imgs\" id=\"img7\"></div>"
     );
   }
   else if(index==95){
