@@ -213,7 +213,7 @@ var textBlocks = [
   },
   //31
   {
-    text: "listening to my own voice https://plague.town/SouthViewCir34_m4a",
+    text: "listening to my own voice",
     date: "may 24, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
@@ -234,7 +234,7 @@ var textBlocks = [
   },
   //34
   {
-    text: "https://plague.town/burnitout_m4a",
+    text: "",
     date: "may 29, 2019",
     greeting: "luv, trinket",
     img:"imgnone"
