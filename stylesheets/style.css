@@ -572,8 +572,8 @@ button{
 .error{
     background-image:url(..//img/skylo.gif);
     height: 1000px;
-    font-size: 15px;
-    color:rgb(170, 56, 28);
+    font-size: 20px;
+    color:rgb(243, 243, 70);
     text-align: center;
     background-color: lightblue;
 }
