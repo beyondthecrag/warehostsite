@@ -827,9 +827,14 @@ var imgBlock = document.getElementById("img-block");
 dropdown.addEventListener("change", function(){
 });
 function updateSubject() {
-  const code = actions[index];  
-  subject.insertAdjacentHTML("afterbegin",code
-  )
+  const code = actions[index];
+  if (code == undefined){
+    document.getElementById("subject").innerHTML = "";
+  }
+  else{
+    subject.insertAdjacentHTML("afterbegin",code)
+  }
+  
 }
 
 function jump(){
